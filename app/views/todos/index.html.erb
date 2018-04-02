@@ -1,0 +1,15 @@
+<div class="container mt-3">
+  <h1 class="display-3">Todos</h1>
+  <div class="input-group mb-3">
+    <input type="text" class="form-control add-todo" placeholder="Enter a task" aria-label="Enter a task">
+  </div>
+  <div class="todo-list">
+    <%= render 'todo' %>
+  </div>
+</div>
+<nav class="navbar fixed-bottom navbar-expand-lg navbar-light bg-light footer">
+  &nbsp;
+  <button type="button" class="btn btn-info add-button">
+    <i class="material-icons">add</i>
+  </button>
+</nav>
