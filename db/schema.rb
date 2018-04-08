@@ -10,7 +10,33 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180401163217) do
+ActiveRecord::Schema.define(version: 20180408152147) do
+
+  create_table "comments", force: :cascade do |t|
+    t.integer "story_id"
+    t.integer "comment_id"
+    t.string "by"
+    t.datetime "time"
+    t.text "text"
+    t.string "url"
+    t.string "title"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["comment_id"], name: "index_comments_on_comment_id"
+    t.index ["story_id"], name: "index_comments_on_story_id"
+  end
+
+  create_table "stories", force: :cascade do |t|
+    t.string "by"
+    t.datetime "time"
+    t.string "url"
+    t.string "title"
+    t.text "text"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.integer "comment_count"
+    t.integer "score"
+  end
 
   create_table "todos", force: :cascade do |t|
     t.datetime "created_at", null: false

@@ -1,0 +1,2498 @@
+[
+  {
+    "by": "ereyes01",
+    "id": 16776595,
+    "kids": [
+      16778494,
+      16777072,
+      16777098,
+      16777084,
+      16778721,
+      16778082,
+      16777092,
+      16780405,
+      16778385,
+      16776921,
+      16778706,
+      16781211,
+      16778268,
+      16777054,
+      16778224,
+      16776664
+    ],
+    "parent": 16775093,
+    "text":
+      "Yes, ISPs can snoop on you to a degree, but I don&#x27;t see how it&#x27;s worse than Facebook or Google. ISPs have to work around widespread (and growing) encryption, while Google&#x2F;Facebook have your _actual_ data... plus, they know way more about you in minute detail via their mobile apps and devices. My home internet is VPN&#x27;ed and unless my ISP is expending undue effort on monitoring me, it can&#x27;t see much detail about what I do on the Internet. However, Google&#x2F;Facebook break all the security layers because we explicitly _trust_ them with all our data. Unless something fundamentally changes (maybe via net neutrality somehow allowing ISPs to penalize encrypted traffic or something), I don&#x27;t see how Facebook&#x2F;Google don&#x27;t run away with all the power here.",
+    "time": 1523043090,
+    "type": "comment"
+  },
+  {
+    "by": "citilife",
+    "id": 16775495,
+    "kids": [
+      16776526,
+      16775517,
+      16775918,
+      16775916,
+      16777476,
+      16779709,
+      16775640,
+      16775838
+    ],
+    "parent": 16775093,
+    "text":
+      "I recently received a &quot;terms of service&quot; update from Comcast, with the notification that they can now &quot;monitor and record anything going through the network. Including, but not limited to: audio recording, video recording, ...&quot;<p>I don&#x27;t even have an alternative in my area.",
+    "time": 1523037181,
+    "type": "comment"
+  },
+  {
+    "by": "pascalxus",
+    "id": 16775344,
+    "kids": [
+      16775491,
+      16776452,
+      16775402,
+      16775375,
+      16776421,
+      16776626,
+      16775401,
+      16775937,
+      16775360,
+      16775510,
+      16775526
+    ],
+    "parent": 16775093,
+    "text":
+      "I&#x27;ve always wondered why people are so hard on Facebook, but give At&amp;t and the other ISPs a free pass to do whatever they want.  If you ask me, the ISP cartels are orders of magnitude more evil than FB.<p>At least FB is making changes to address the issues, unlike At&amp;t who keeps screwing people over more and more every year.",
+    "time": 1523036473,
+    "type": "comment"
+  },
+  {
+    "by": "iClaudiusX",
+    "id": 16775886,
+    "parent": 16775093,
+    "text":
+      "The text of Joint Resolution 34 when it passed in the Senate last year \n<a href=\"https:&#x2F;&#x2F;www.congress.gov&#x2F;bill&#x2F;115th-congress&#x2F;senate-joint-resolution&#x2F;34\" rel=\"nofollow\">https:&#x2F;&#x2F;www.congress.gov&#x2F;bill&#x2F;115th-congress&#x2F;senate-joint-re...</a><p>The role call vote breakdown \n<a href=\"https:&#x2F;&#x2F;www.senate.gov&#x2F;legislative&#x2F;LIS&#x2F;roll_call_lists&#x2F;roll_call_vote_cfm.cfm?congress=115&amp;session=1&amp;vote=00094\" rel=\"nofollow\">https:&#x2F;&#x2F;www.senate.gov&#x2F;legislative&#x2F;LIS&#x2F;roll_call_lists&#x2F;roll_...</a><p>Ars Technica&#x27;s coverage of the bill (now law) with context\n<a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;tech-policy&#x2F;2017&#x2F;03&#x2F;senate-votes-to-let-isps-sell-your-web-browsing-history-to-advertisers&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;tech-policy&#x2F;2017&#x2F;03&#x2F;senate-votes-to-...</a>",
+    "time": 1523039068,
+    "type": "comment"
+  },
+  {
+    "by": "cronix",
+    "id": 16781909,
+    "parent": 16775093,
+    "text":
+      "In addition to the ISP you use, the DNS you use sees all as well, doesn&#x27;t it?",
+    "time": 1523124798,
+    "type": "comment"
+  },
+  {
+    "by": "peterwwillis",
+    "id": 16778743,
+    "kids": [16779788],
+    "parent": 16775093,
+    "text":
+      "If you use Chrome or Firefox, almost all of your data is hidden from the ISP - increadingly more sites use HTTPS, and use a CDN, and browsers are implementing DNS over HTTPS and have their own DNS resolvers. In addition, providers like Google are literally proxying your mobile requests to unrelated sites to capture even more data.<p>Google and CloudFlare can see probably more than 90% of your traffic without even trying. Google&#x27;s business model is dependent on selling advertisement based on your data. Your ISP can see maybe 50%, and it&#x27;s shrinking fast.<p>All of these companies exist because <i>you agreed to them</i>. You&#x27;re paying them to continue this behavior, or using their free services. Stop agreeing to free services and stop using monopolies. Lobby your local government to overturn laws preventing municipal internet providers.<p>That won&#x27;t happen though, because people don&#x27;t really care <i>that</i> much about surveillance to go to those lengths just to stop it. Hell, the NSA is still illegally wiretapping US citizens.",
+    "time": 1523061701,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16775539,
+    "kids": [
+      16775792,
+      16775714,
+      16775675,
+      16775742,
+      16779311,
+      16775959,
+      16775867,
+      16775746,
+      16775628
+    ],
+    "parent": 16775093,
+    "text":
+      "Comcast, AT&amp;T and Verizon don&#x27;t have a single bit of data on me, I&#x27;m not a customer. As opposed to Facebook and Google being present on just about every webpage and gobbling up data about <i>all the people on the planet that have internet access</i>.<p>The article has this bit in it:<p>&quot;Your internet provider doesn’t just know what you do on Facebook – it sees all the sites you visit and how much time you spend there. Your provider can see where you shop, what you watch on TV, where you choose to eat dinner, what medical symptoms you search, where you apply for work, school, a mortgage. Everything that is unencrypted is fair game. &quot;<p>The last part is the important part: hardly anything is unencrypted these days (and if it isn&#x27;t it really should get with the times). So if that part of the article would have been adjusted to the present day situation that only thing that remains is that <i>if</i> these parties are your provider then they can indeed see which IP addresses you connect to (if you don&#x27;t use a VPN).<p>They can&#x27;t see what you watch on TV unless you configure your TV to tell them (or use a set-top box to choose your channels for you), they do not know where you choose to eat your dinner unless your smartphone leaks GPS coordinates to them (regular triangulation is too coarse for this) and they do not know where you apply for work and school or a mortgage.<p>In general this is a whole bunch of alarmist hoopla, yes, providers see too much data, no it&#x27;s <i>nothing</i> compared to Facebook and Google.<p>What should worry you is AT&amp;T and other cellular services providers access to your call records (which they are required by law to keep for a long time in most places) and SMS data as well as the possibility of them recording all your voice calls without your consent.",
+    "time": 1523037365,
+    "type": "comment"
+  },
+  {
+    "by": "gscott",
+    "id": 16775484,
+    "parent": 16775093,
+    "text":
+      "Further expanding on the article, ATT sells a spy service to police departments and many police departments are paying 100k and more yearly to ATT for this.<p><a href=\"https:&#x2F;&#x2F;mashable.com&#x2F;2016&#x2F;10&#x2F;25&#x2F;att-selling-data-police&#x2F;#DuI6_vekkqqx\" rel=\"nofollow\">https:&#x2F;&#x2F;mashable.com&#x2F;2016&#x2F;10&#x2F;25&#x2F;att-selling-data-police&#x2F;#DuI...</a>",
+    "time": 1523037112,
+    "type": "comment"
+  },
+  {
+    "by": "chvid",
+    "id": 16776693,
+    "kids": [16779141, 16777342, 16776736],
+    "parent": 16775093,
+    "text":
+      "This is a somewhat misguided article.<p>Your ISP does not have access to most of your communication, social media usage and searches as that runs thru https.<p>That is why Facebook and others is completely blocked in China. Had the national carriers been able to surveil and block select communication they would have been asked to do so by the government.<p>Secondly an ISP charges you a subscription and that is their revenue model. They are not incentivised to build an elaborate profile on your in order to deliver advertisement.<p>Thirdly ISPs in most countries are required by law to support the police with surveillance information. That is done in transparent way (you can read the laws and ask your politicians).<p>This police support has always existed sinces the days of the tele monopolies. However now that more communication runs via internet, https and social media, it creates this strange inbalance where the police cannnot get the same access to Facebook (or similar) communication as they can to SMS or voice communication.<p>Also Facebook provides different level of access to the NSA, the police in Denmark and the police in Myanmar. And do that in a non-transparent manner.",
+    "time": 1523043702,
+    "type": "comment"
+  },
+  {
+    "by": "docdeek",
+    "id": 16775427,
+    "kids": [16775451],
+    "parent": 16775093,
+    "text":
+      "&gt; Many – though by no means all – of us are privileged enough to #DeleteFacebook, or at least reduce the time we spend there.<p>What privilege is being referenced here?",
+    "time": 1523036855,
+    "type": "comment"
+  },
+  {
+    "by": "jason_slack",
+    "id": 16777620,
+    "parent": 16775093,
+    "text":
+      "Can anyone talk about hardware and software one can run at home to help protect themselves more?<p>I have a pfsense box for firewalling the whole connection. I should look and see if I can integrate VPN with this as well.<p>Right now I use a personal router with Astrill VPN for when I am out and about at coffee places. This: <a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;gp&#x2F;product&#x2F;B01K6MHRJI&#x2F;ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;gp&#x2F;product&#x2F;B01K6MHRJI&#x2F;ref=oh_aui_sear...</a><p>Plus I also have this Ubiquite Edge Router I carry around too for wired connections. <a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;gp&#x2F;product&#x2F;B00YFJT29C&#x2F;ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;gp&#x2F;product&#x2F;B00YFJT29C&#x2F;ref=oh_aui_sear...</a>",
+    "time": 1523050163,
+    "type": "comment"
+  },
+  {
+    "by": "LeoPanthera",
+    "id": 16778042,
+    "parent": 16775093,
+    "text":
+      "I&#x27;ve been forwarding all outgoing connections on port 80 (and a selection of other commonly-unencrypted ports) through a VPN (in the router) for a while now - but leaving all other ports (including most importantly 443) connecting directly.<p>It feels like a good compromise between privacy and speed.",
+    "time": 1523053607,
+    "type": "comment"
+  },
+  {
+    "by": "confounded",
+    "id": 16776057,
+    "parent": 16775093,
+    "text":
+      "If you have a local independent ISP, <i>use them</i>!<p>Two great ones in SF, MonkeyBrains and Sonic. Both support net neutrality, and don&#x27;t do any of this evil shit.<p><a href=\"https:&#x2F;&#x2F;www.monkeybrains.net&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.monkeybrains.net&#x2F;</a>\n<a href=\"https:&#x2F;&#x2F;www.sonic.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.sonic.com&#x2F;</a>",
+    "time": 1523039954,
+    "type": "comment"
+  },
+  {
+    "by": "inspecotrrr",
+    "id": 16775527,
+    "parent": 16775093,
+    "text":
+      "They can&#x27;t read the contents of conversations masked by TLS, but Facebook can. This is incredibly relevant to modern services and technology.<p>Telephone is an audio stream, so speech-to-text is a bit more wobbly. SMS, on the other hand... well, at least their price gouging was cost prohibitive for a few decades.",
+    "time": 1523037300,
+    "type": "comment"
+  },
+  {
+    "by": "droopybuns",
+    "id": 16777037,
+    "kids": [16779731],
+    "parent": 16775093,
+    "text":
+      "I think this is fear mongering in the extreme.<p>Facebook, Twitter and Google have persuaded all of the major internet sites to add code to their pages in the hope that it will drive more page views.  At this point they have implemented enough code to reap the same level of benefit that you might get from passively MITM’ing all internet traffic.  What’s “worse”, is that Facebook and Google are campaigning heavily to move all web traffic to encrypted.  The end result: a “more secure” internet that just happens to fend off a competitive threat.<p>The author should be ashamed of themselves.  I think this falls under the “relative privation” fallacy.  Google and FB are peerless when it comes to surveillance.",
+    "time": 1523046136,
+    "type": "comment"
+  },
+  {
+    "by": "kerng",
+    "id": 16779164,
+    "parent": 16775093,
+    "text":
+      "Doesn&#x27;t Comcast even require a special router, where they install custom certs and packet analysis software. Remember a friend of mine was on the phone long with their support, because he just wanted to use his own router, but Comcast wouldn&#x27;t wanna patch him through. Anyone had similar experience? I can ask him again for details.",
+    "time": 1523070072,
+    "type": "comment"
+  },
+  {
+    "by": "hacknat",
+    "id": 16779560,
+    "parent": 16775093,
+    "text":
+      "Most web traffic is encrypted these days so ISPs can only see what sites you’re visiting via DNS and SNI. While that is worrisome, I fail to see how that is greater data than my search history.",
+    "time": 1523080266,
+    "type": "comment"
+  },
+  {
+    "by": "brundolf",
+    "id": 16776140,
+    "parent": 16775093,
+    "text":
+      "The good news is, HTTPS is pretty common these days and Cloudflare just launched encrypted DNS (1.1.1.1). Those two things cover a large portion of exposed data.<p>If you&#x27;re on Android, this is an excellent app that allows you to set a custom DNS server across all apps and connections, without root: <a href=\"https:&#x2F;&#x2F;f-droid.org&#x2F;en&#x2F;packages&#x2F;org.jak_linux.dns66&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;f-droid.org&#x2F;en&#x2F;packages&#x2F;org.jak_linux.dns66&#x2F;</a>. As a bonus it also lets you blacklist domains, though of course that&#x27;s not relevant to concerns about your ISP.<p>Be wary of third-party VPNs, though (bottom section titled &quot;VPNs could put you at risk&quot;): <a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2016&#x2F;06&#x2F;aiming-for-anonymity-ars-assesses-the-state-of-vpns-in-2016&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2016&#x2F;06&#x2F;aimin...</a>",
+    "time": 1523040361,
+    "type": "comment"
+  },
+  {
+    "by": "enedil",
+    "id": 16775486,
+    "parent": 16775093,
+    "text":
+      "Whining about Comcast might be actually valid, but for most people of this world it&#x27;s largely irrelevant. People from every place have Facebook access. Comcast customers are minority - Americans are minority. That&#x27;s why Facebook has a lot harder time (also, ditching Facebook is more achievable).",
+    "time": 1523037124,
+    "type": "comment"
+  },
+  {
+    "by": "eveningcoffee",
+    "id": 16780065,
+    "parent": 16775093,
+    "text":
+      "Why greater or smaller? The effect of this comparison will only diminish Facebook risk in people minds.<p>The right answer is that Comcast, AT&amp;T and Verizon pose a the same surveillance risk as Facebook.",
+    "time": 1523093965,
+    "type": "comment"
+  },
+  {
+    "by": "xexers",
+    "id": 16775685,
+    "kids": [16775770],
+    "parent": 16775093,
+    "text":
+      "When the article says &quot;what medical symptoms you search&quot;... Comcast can&#x27;t see what you search if you&#x27;re connected to a page using https, right?  All of the major search engines and medical sites all use https... so, what are they talking about?",
+    "time": 1523038026,
+    "type": "comment"
+  },
+  {
+    "by": "Jeff_Brown",
+    "id": 16775434,
+    "kids": [16775548, 16775646],
+    "parent": 16775093,
+    "text":
+      "The article doesn&#x27;t address strategies for avoiding such surveillance. How well does it work? Does it prevent you from doing anything you might need to do? How hard is it? How much slower? Can it be done on a mobile device?",
+    "time": 1523036883,
+    "type": "comment"
+  },
+  {
+    "by": "mistrial9",
+    "id": 16775591,
+    "parent": 16775093,
+    "text":
+      "a key difference here is the data structures behind the scenes, dont you think?  FB built a state-of-the-art pipeline designed for graph analytics, and sold that as a revenue source. Meanwhile, the ISPs spent money on attorneys to secure favorable legal terms, and the &quot;moron count&quot; inside the company is likely quite high.. A zillion streams of sequential records are more like the 90s data warehouse situation, not FB graph search.",
+    "time": 1523037592,
+    "type": "comment"
+  },
+  {
+    "by": "jwilk",
+    "id": 16775662,
+    "kids": [16781783],
+    "parent": 16775093,
+    "text":
+      "&gt; <i>Your provider can see [...] what medical symptoms you search [...]. Everything that is unencrypted is fair game.</i><p>Which search engines are unencrypted these days?",
+    "time": 1523037954,
+    "type": "comment"
+  },
+  {
+    "by": "gdulli",
+    "id": 16775542,
+    "kids": [16776393, 16775736],
+    "parent": 16775093,
+    "text":
+      "I&#x27;m not as concerned about CA having data I&#x27;ve given to FB as I am about their admission  of using it to spread false information. If cable and phone companies were politically weaponizing my data the same way I&#x27;d be just as concerned.<p>On the one hand, maybe worrying sooner prevents issues. On the other hand, I don&#x27;t want to assume a slippery slope out of principle.",
+    "time": 1523037375,
+    "type": "comment"
+  },
+  {
+    "by": "mattsfrey",
+    "id": 16775965,
+    "kids": [16776179],
+    "parent": 16775093,
+    "text":
+      "Yet another reason Musk&#x27;s new satellite internet will be awesome. I&#x27;d personally sacrifice some bandwidth for privacy.",
+    "time": 1523039490,
+    "type": "comment"
+  },
+  {
+    "by": "mikeyanderson",
+    "id": 16776069,
+    "parent": 16775093,
+    "text":
+      "If you talk to a sales person from any third party ad service and ask questions about what you can do with data—you&#x27;ll find there is an entire market of buying and selling data from every cell company, credit card company, banks, corporate rewards cards, voting records and donations, etc.",
+    "time": 1523040004,
+    "type": "comment"
+  },
+  {
+    "by": "loourr",
+    "id": 16775974,
+    "parent": 16775093,
+    "text":
+      "Yeah, sure, agreed, but why call the article that? Don&#x27;t we want them all to stop sucking?",
+    "time": 1523039551,
+    "type": "comment"
+  },
+  {
+    "by": "wemdyjreichert",
+    "id": 16778717,
+    "parent": 16775093,
+    "text":
+      "Though it&#x27;s a problem, theres a solution: VPN. Openvpn and outline are 2 good options you can use to roll-you-own gigabit on a vps for $5&#x2F;mo.",
+    "time": 1523061417,
+    "type": "comment"
+  },
+  {
+    "by": "whatupmd",
+    "id": 16780029,
+    "parent": 16775093,
+    "text": "Doesn&#x27;t the guardian mean Sky, BT, and Virgin Media?",
+    "time": 1523092670,
+    "type": "comment"
+  },
+  {
+    "by": "vladsanchez",
+    "id": 16777890,
+    "parent": 16775093,
+    "text":
+      "I was saying this while the Cambridge Analytica scandal unfolded.<p>All my UVerse traffic goes thru AT&amp;T proxy servers and that dwarves what FB and Google get from me on a regular basis.",
+    "time": 1523052343,
+    "type": "comment"
+  },
+  {
+    "by": "mithoon",
+    "id": 16777736,
+    "parent": 16775093,
+    "text":
+      "ISP data is &quot;Our&quot; data, whereas FB&#x2F; Google data is &quot;MY&quot; data. So they can generally be extremely accurate.",
+    "time": 1523051064,
+    "type": "comment"
+  },
+  {
+    "by": "friendlydude12",
+    "id": 16776070,
+    "parent": 16775093,
+    "text": "How about they all pose a serious threat to privacy?",
+    "time": 1523040013,
+    "type": "comment"
+  },
+  {
+    "by": "75dvtwin",
+    "id": 16779643,
+    "parent": 16775093,
+    "text":
+      "This article reads to me like a propaganda piece, employing USSR-style &#x27;what-aboutism&#x27; argument [1].<p>ISPs &#x27;could be worse&#x27; than Facebook already is, the article argues.<p>&gt;<i>&quot;Your internet provider doesn’t just know what you do on Facebook – it sees all the sites you visit and how much time you spend there. Your provider can see where you shop, what you watch on TV,\n&lt;&quot;</i><p>But, really, a consumer has a choice of VPN to protect his&#x2F;her traffic, and demarry it from their identity. This is not an option when a user has to login to use features within Facebook or Google+, or Youtube.<p>What I think is happening, is that Ad-revenue based service providers (eg most CA-based &#x27;thought-leaders&#x27;) are deathly afraid of consumers choosing VPN.<p>I think, actually, ISPs should encourage consumers to use VPN, this way ISPs will still get paid their &#x27;utility&#x27; value, \nbut the &#x27;digital footprint collection, and then Ad-selling business companies,  would have to rethink their business models...<p>Which is why, the content-providers propaganda machine was so intensive against repeal of &#x27;net-neutrality&#x27; (which was, essentially, a form of business-net-privilege for Ad-selling content providers).<p>[1] <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Whataboutism\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Whataboutism</a>",
+    "time": 1523082414,
+    "type": "comment"
+  },
+  {
+    "by": "markhahn",
+    "id": 16776806,
+    "parent": 16775093,
+    "text":
+      "how about banks and cc companies?  commercial behavior is inherently less noisy than social - though finding disparities between them would be interesting.",
+    "time": 1523044460,
+    "type": "comment"
+  },
+  {
+    "by": "CodinM",
+    "id": 16778120,
+    "parent": 16775093,
+    "text": "* possibly, if you live in the U.S.",
+    "time": 1523054424,
+    "type": "comment"
+  },
+  {
+    "by": "drawkbox",
+    "id": 16776696,
+    "parent": 16775093,
+    "text":
+      "Your ISP tracking your every move is scarier than anything after the ISP privacy bill passed [1][2].\nAt least Facebook and Google give you something for it and you can route around them if you desire. No routing around ISPs unless you use a VPN but even then they will start blocking those again.<p>Broadband&#x2F;cable&#x2F;telcos capture everything you do and can now sell that information and do [1][2]. That bill was the pre-cursor to removing net neutrality by taking privacy and policy from the FCC to the FTC.<p>Part of Jeff Flake&#x27;s argument for getting rid of the privacy protections were so that ISPs can compete with Facebook and Google and sell your data&#x2F;offer ads to you. Yet Facebook and Google at least built products you wanted that you willingly gave up privacy to use and at least got something for it [3][4].<p>ISPs you have to pay to use and they still take your data as if you are the product. ISPs could have built products people wanted to get that data but they instead bribed &#x27;representatives&#x27; to get it via legislation with their local monopolies. Noone wanted this bill but ISPs [2].<p>I expect tracking from free services I am not paying for that my data is the product. I expect tracking from companies that make their money from ad&#x2F;marketing to do that.<p>I do not expect tracking and privacy invasions from my ISP, my front door to the internet.<p>I can&#x27;t route around my ISP, there is no local competition and what competition there is amounts to false competition. From the FCCs own data, most people only have 1 or maybe 2 real competitive ISPs in their area and virtually no competition at 100Mbps, zero options for gigabit [5][6].<p>&gt; <i>FCC report finds almost no broadband competition at 100Mbps speeds</i> [5][6].<p>&gt; <i>Even at 25Mbps, 43 percent of the US had zero ISPs or just one</i> [5][6].<p>ISPs like Comcast, Verizon, AT&amp;T etc are your base gateway to the network and entry point. Facebook is just built on top of the network.<p>ISPs lobbied hard to remove your privacy protections for a reason [1][2] as stated in Jeff Flake&#x27;s op-ed as the bill sponsor. [3][4]<p>&gt; <i>The FCC rules subject all web browsing and app usage data to the same restrictive requirements as sensitive personal information. That means that information generated from looking up the latest Cardinals score or checking the weather in Scottsdale is treated the same as personal health and financial data.</i><p>&gt; <i>The new rules also restrict an ISP’s ability to inform customers about innovative and cost-saving product offerings. So much for consumer choice.</i><p>So privacy protections were removed for <i>&#x27;consumer choice&#x27;</i> according to the bill.<p>ISPs lobbied hard to remove network neutrality so your ISP can not only bias connections but track your every move, <i>reducing consumer choice</i>.<p>ISPs you cannot route around or not use and there is false competition in most areas and really only one provider so they have local monopolies [5][6], <i>reducing consumer choice</i>.<p>Instead of building products on top of the web they bribed and lobbied to get their way, <i>reducing consumer choice</i>.<p>When you only have a handful of large ISPs where AT&amp;T has been known to split your data to share with the NSA and authorities, that is dangerous [7].<p>&gt; <i>Room 641A is a telecommunication interception facility operated by AT&amp;T for the U.S. National Security Agency that commenced operations in 2003 and was exposed in 2006</i><p>[1] <a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;tech-policy&#x2F;2017&#x2F;03&#x2F;senate-votes-to-let-isps-sell-your-web-browsing-history-to-advertisers&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;tech-policy&#x2F;2017&#x2F;03&#x2F;senate-votes-to-...</a><p>[2] <a href=\"https:&#x2F;&#x2F;www.eff.org&#x2F;deeplinks&#x2F;2017&#x2F;03&#x2F;five-creepy-things-your-isp-could-do-if-congress-repeals-fccs-privacy-protections\" rel=\"nofollow\">https:&#x2F;&#x2F;www.eff.org&#x2F;deeplinks&#x2F;2017&#x2F;03&#x2F;five-creepy-things-you...</a><p>[3] <a href=\"https:&#x2F;&#x2F;www.flake.senate.gov&#x2F;public&#x2F;index.cfm&#x2F;2017&#x2F;3&#x2F;op-ed-for-the-wall-street-journal\" rel=\"nofollow\">https:&#x2F;&#x2F;www.flake.senate.gov&#x2F;public&#x2F;index.cfm&#x2F;2017&#x2F;3&#x2F;op-ed-f...</a><p>[4] <a href=\"https:&#x2F;&#x2F;www.flake.senate.gov&#x2F;public&#x2F;index.cfm&#x2F;2017&#x2F;3&#x2F;flake-introduces-resolution-to-protect-consumers-from-overreaching-internet-regulation\" rel=\"nofollow\">https:&#x2F;&#x2F;www.flake.senate.gov&#x2F;public&#x2F;index.cfm&#x2F;2017&#x2F;3&#x2F;flake-i...</a><p>[5] <a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2018&#x2F;02&#x2F;fcc-report-finds-almost-no-broadband-competition-at-100mbps-speeds&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2018&#x2F;02&#x2F;fcc-r...</a><p>[6] <a href=\"https:&#x2F;&#x2F;transition.fcc.gov&#x2F;Daily_Releases&#x2F;Daily_Business&#x2F;2018&#x2F;db0207&#x2F;DOC-349074A1.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;transition.fcc.gov&#x2F;Daily_Releases&#x2F;Daily_Business&#x2F;201...</a><p>[7] <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Room_641A\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Room_641A</a>",
+    "time": 1523043731,
+    "type": "comment"
+  },
+  {
+    "by": "throw2016",
+    "id": 16779661,
+    "parent": 16775093,
+    "text":
+      "Either you are concerned about surveillance or you are not. If you are then you would have to be concerned about both.<p>And more about Google and Facebook because of their global reach, access to location and content across all devices, an insatiable greed for user data including collation from all available sources to build detailed long term profiles of individuals, not unlike files by the stasi.<p>Here is Facebook trying to get user data from hospitals. [1]. This is truly sinister.<p>[1] <a href=\"https:&#x2F;&#x2F;www.cnbc.com&#x2F;2018&#x2F;04&#x2F;05&#x2F;facebook-building-8-explored-data-sharing-agreement-with-hospitals.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2018&#x2F;04&#x2F;05&#x2F;facebook-building-8-explored...</a>",
+    "time": 1523082921,
+    "type": "comment"
+  },
+  {
+    "by": "joelrunyon",
+    "id": 16776362,
+    "parent": 16775093,
+    "text": "How about both are bad?",
+    "time": 1523041583,
+    "type": "comment"
+  },
+  {
+    "by": "electriclove",
+    "id": 16777271,
+    "kids": [16777524],
+    "parent": 16775093,
+    "text":
+      "This is typical Facebook manipulation of media to take the eye off them.",
+    "time": 1523047711,
+    "type": "comment"
+  },
+  {
+    "by": "innagadadavida",
+    "id": 16779255,
+    "parent": 16775093,
+    "text":
+      "I’m disappointed that a respectable website like the guardian is trying to take the heat away from Facebook and google in this recent privacy fiasco. Please don’t click on that article and give them your cookies&#x2F;clicks&#x2F;profile&#x2F;$$$",
+    "time": 1523072204,
+    "type": "comment"
+  },
+  {
+    "by": "thrillgore",
+    "id": 16779253,
+    "parent": 16775093,
+    "text":
+      "It would be nice if the US had GDPR policies like the EU has. Shit, it would be nice if we had a functioning democracy.",
+    "time": 1523072162,
+    "type": "comment"
+  },
+  {
+    "by": "dabockster",
+    "id": 16778861,
+    "parent": 16775093,
+    "text": "Good luck, I&#x27;m behind seven proxies.",
+    "time": 1523063682,
+    "type": "comment"
+  },
+  {
+    "by": "neo4sure",
+    "id": 16778435,
+    "parent": 16775093,
+    "text":
+      "The biggest difference here that we don&#x27;t pay to use facebook or google. We pay to use Comcast and most of the time we don&#x27;t have an alternative.",
+    "time": 1523057635,
+    "type": "comment"
+  },
+  {
+    "by": "dna_polymerase",
+    "id": 16775620,
+    "parent": 16775093,
+    "text":
+      "Oh cool, now it is the big ISPs. What is the Guardian coming up with next?<p>&quot;The ISPs surveillance is nothing compared with the NSA&quot;??<p>How are people waking up only now? Snowden happened in 2013!",
+    "time": 1523037744,
+    "type": "comment"
+  },
+  {
+    "by": "alexnewman",
+    "id": 16775936,
+    "parent": 16775093,
+    "text": "and amex is even scarrier",
+    "time": 1523039299,
+    "type": "comment"
+  },
+  {
+    "by": "alvil",
+    "dead": true,
+    "id": 16775708,
+    "parent": 16775093,
+    "text":
+      "You are right but they were not mentioned by Soros in Davos 2018 :)",
+    "time": 1523038107,
+    "type": "comment"
+  },
+  {
+    "by": "khana",
+    "dead": true,
+    "id": 16776174,
+    "parent": 16775093,
+    "text": "YES.",
+    "time": 1523040563,
+    "type": "comment"
+  },
+  {
+    "by": "Install_Gentoo",
+    "dead": true,
+    "id": 16775487,
+    "parent": 16775093,
+    "text": "Why would this be a surprise?",
+    "time": 1523037125,
+    "type": "comment"
+  },
+  {
+    "by": "pfarnsworth",
+    "id": 16775583,
+    "kids": [16779733],
+    "parent": 16775093,
+    "text":
+      "We should implement browser extensions that randomly go to sites in the background, and create so much noise that the ISPs can&#x27;t get any signal from us.",
+    "time": 1523037569,
+    "type": "comment"
+  },
+  {
+    "deleted": true,
+    "id": 16777045,
+    "parent": 16775093,
+    "time": 1523046227,
+    "type": "comment"
+  },
+  {
+    "by": "908087",
+    "id": 16776375,
+    "parent": 16775093,
+    "text":
+      "My ISP can&#x27;t sniff what I&#x27;m doing on a properly encrypted website.  Google Analytics and Facebook &quot;like&quot; buttons, however, certainly can and do.",
+    "time": 1523041669,
+    "type": "comment"
+  },
+  {
+    "by": "ians",
+    "id": 16776526,
+    "kids": [16776807, 16776798, 16776831, 16776620],
+    "parent": 16775495,
+    "text":
+      "for anyone interested I pulled up the Terms and found what I believe the OP is referencing:<p>`Monitoring and Recording. You agree that Comcast and its agents may monitor and record any telephone calls or other voice, data or image communications that are transmitted between: (1) Comcast and its agents and (2) you, your agents, any user of your Service(s) or Equipment, or any user of any phone numbers associated with your account.`",
+    "time": 1523042589,
+    "type": "comment"
+  },
+  {
+    "by": "exabrial",
+    "id": 16775517,
+    "kids": [16775757],
+    "parent": 16775495,
+    "text":
+      "Yikes. I&#x27;d be sure to lodge a complaint here, note about the local monopoly: <a href=\"https:&#x2F;&#x2F;consumercomplaints.fcc.gov&#x2F;hc&#x2F;en-us\" rel=\"nofollow\">https:&#x2F;&#x2F;consumercomplaints.fcc.gov&#x2F;hc&#x2F;en-us</a><p>I&#x27;m curious where you are located [if you don&#x27;t mind sharing]?",
+    "time": 1523037255,
+    "type": "comment"
+  },
+  {
+    "by": "ballenf",
+    "id": 16775918,
+    "kids": [16776675, 16776515],
+    "parent": 16775495,
+    "text":
+      "I recently signed up for a promo from DirectTV Now where the promo was cheaper than the free AppleTV that came with it.<p>Don&#x27;t worry, I&#x27;m not promoting DirectTV Now because it sucks balls. I have ad blocking at the router level at home and DirectTV basically won&#x27;t work because of it. Even when it does work the picture quality is awful, you can&#x27;t easily skip commercials, changing channels is painfully slow. And there are ads everywhere.<p>But, my main point is that a few weeks after getting it, I get a mailer from Charter asking me why would I want to pay for channel bundles (I get only internet from Charter)... the only way that mailer makes sense is if they were watching my traffic and seeing that I&#x27;m a subscriber to a channel package from their competitor. (I&#x27;ve never gotten a similar mailing and it doesn&#x27;t make sense absent spying, otherwise they&#x27;re kind of arguing against their own main cable service.)<p>It really made me want to get VPN setup whole-house.",
+    "time": 1523039203,
+    "type": "comment"
+  },
+  {
+    "by": "zackbloom",
+    "id": 16775916,
+    "kids": [16776042, 16776373],
+    "parent": 16775495,
+    "text":
+      "What you can do is use a third party DNS resolver like 1.1.1.1, ideally over HTTPS or TLS, and use HTTPS for all your web traffic. That dramatically reduces what they can inspect.<p>If that isn’t enough, your next option is a VPN or Tor.",
+    "time": 1523039198,
+    "type": "comment"
+  },
+  {
+    "by": "aesh2Xa1",
+    "id": 16777476,
+    "parent": 16775495,
+    "text":
+      "Add an always-on VPN tunnel to your router with the tunnel exit on someone else&#x27;s (not Comcast) network.",
+    "time": 1523049024,
+    "type": "comment"
+  },
+  {
+    "by": "PeterStuer",
+    "id": 16779709,
+    "parent": 16775495,
+    "text":
+      "Aren&#x27;t all ISPs required to comply with lawful intercept regulation that includes data retention?",
+    "time": 1523084086,
+    "type": "comment"
+  },
+  {
+    "by": "jonny_eh",
+    "id": 16775640,
+    "kids": [16776618, 16775688],
+    "parent": 16775495,
+    "text": "Time to shell out for a VPN service.",
+    "time": 1523037840,
+    "type": "comment"
+  },
+  {
+    "by": "briandear",
+    "id": 16775838,
+    "kids": [16775995],
+    "parent": 16775495,
+    "text":
+      "That can potentially be a HIPAA violation unless medical providers&#x2F;platforms get a Business Associates Agreement with the ISP. This could be a nightmare.",
+    "time": 1523038806,
+    "type": "comment"
+  },
+  {
+    "by": "rainsford",
+    "id": 16778494,
+    "kids": [16779999, 16778864, 16778627],
+    "parent": 16776595,
+    "text":
+      "I agree with you, but there&#x27;s also a business model aspect I think you&#x27;re missing.  Your ISP might be interested in monetizing your personal data to add to the ways they make money, but for companies like Google and Facebook, making money from your personal data is basically their entire business model.<p>Given enough opposition, Verizon, Comcast, etc, could strongly embrace personal data privacy and still continue as companies.  Yes, they&#x27;d lose a business opportunity, but they still make a lot of money selling you internet access and that wouldn&#x27;t go away. The same is not really true of companies like Google or Facebook.  Collecting and making money off your personal data is the foundation of their business.  Strongly protecting your privacy would require them to change their entire way of making money.<p>I think you could argue either way whether Google or Verizon has more ability to spy on you, but Google absolutely has a stronger business motivation to collect your data than Verizon does.",
+    "time": 1523058379,
+    "type": "comment"
+  },
+  {
+    "by": "jka",
+    "id": 16777072,
+    "parent": 16776595,
+    "text":
+      "For the layman user (likely 99%+ of these ISP user populations), using an ISP essentially provides near-entire browser history to them, at least to the granularity of domain name.<p>A surprising number of sites (and&#x2F;or assets, images, etc) still don&#x27;t use TLS, and so for those it&#x27;s also possible for an ISP to understand what the user was reading&#x2F;accessing.<p>Even for sites which do support TLS, if the ISP hypothetically had a partnership with a single data broker &#x2F; advertiser which was also on the page, it&#x27;s likely not hard to have a pretty precise idea of their interests&#x2F;viewing.<p>You&#x27;re right that Google and Facebook will continue to have very narrow and precise information about people&#x27;s daily lives; it&#x27;s simultaneously true that ISPs will continue to have broad &amp; ongoing profiling information across any touchpoints as people use the internet.",
+    "time": 1523046440,
+    "type": "comment"
+  },
+  {
+    "by": "wuliwong",
+    "id": 16777098,
+    "parent": 16776595,
+    "text":
+      "I mostly agree with you. From my perspective the data that Facebook has on me is far better than anything my ISP could have collected thus-far. I am in an area where I have more than one option for high speed internet and it is a pain to change but not even close to the amount of pain I would experience by deleting Facebook and Instagram. Doing that would cause fundamental changes to my social life. None of my friends are even aware that I switched ISPs last year.<p>I think if the article was written in the spirit of &quot;watch out for the ISPs too&quot; instead of &quot;the ISPs are so much worse&quot; I would have been more onboard.<p>I think it&#x27;s a bit apples and oranges: all my traffic with low resolution or just my social traffic in high resolution.  I don&#x27;t clearly see one being far more dangerous&#x2F;valuable than the other.",
+    "time": 1523046575,
+    "type": "comment"
+  },
+  {
+    "by": "closeparen",
+    "id": 16777084,
+    "kids": [16777222],
+    "parent": 16776595,
+    "text":
+      "Facebook and Google are not repositories to which you entrust <i>your data</i> for private safekeeping. The point of Facebook is to communicate with other people. The point of Google is to interact with shared repository of knowledge that learns from its own utilization. There is inherently a multi-party interest in everything Google or Facebook has about you, except for <i>maybe</i> never-shared Google Docs.<p>Bank vault analogues for private data do exist: iCloud, Dropbox, Crashplan, etc. If “your data” needs to leave your physical possession, that’s the sort of service it should go to.",
+    "time": 1523046491,
+    "type": "comment"
+  },
+  {
+    "by": "written",
+    "id": 16778721,
+    "parent": 16776595,
+    "text":
+      "Google doesn&#x27;t need to break encryption for other reasons too. It has JavaScript execution access and thus access to all the client side data on at least the half of the top 1mil. websites on the internet.<p>It&#x27;s easily blockable for people who care, but still many don&#x27;t, and for those people it makes all the pretty transport encrytpion a sham.<p>Seriously, companies afford third parties JavaScript execution on pages where they expect me to enter CC or other sensitive info. Half of the web at this point is a joke when it comes to security and privacy.",
+    "time": 1523061485,
+    "type": "comment"
+  },
+  {
+    "by": "JoshMnem",
+    "id": 16778082,
+    "kids": [16778340],
+    "parent": 16776595,
+    "text":
+      "There are other privacy problems with wireless hotspots too. A new example: you can&#x27;t log in to Starbucks&#x27; wifi (via Google) without verifying a real email address through Experian&#x27;s API. (Open the browser console and watch the requests -- see if you can use a fake email address.) Who knows where all that data is going.<p>Most hotspot providers are probably tracking your physical locations by MAC address, which can be linked with other data. It looks like Peet&#x27;s recently started doing that as well.",
+    "time": 1523053968,
+    "type": "comment"
+  },
+  {
+    "by": "ThoAppelsin",
+    "id": 16777092,
+    "kids": [16780434, 16778669, 16777896, 16777433],
+    "parent": 16776595,
+    "text":
+      "I, too, use encrypted VPN, but we are just a minority. Many people use the services provided as-is without taking any extra measures, and I think that those are the people more likely to be influenced by the influencers anyway.<p>We, the ones that they&#x27;ll have to <i>spend undue effort</i> to sniff out a profile about, are not targets to them. We are much too resistant to it that we have gone all through the effort of setting up a private VPN with good encryption.",
+    "time": 1523046551,
+    "type": "comment"
+  },
+  {
+    "by": "chiefalchemist",
+    "id": 16780405,
+    "kids": [16780688],
+    "parent": 16776595,
+    "text":
+      "FB sees you on FB.<p>The others can follow you everywhere. They know where you live. They know who you phone. They know who phones you.<p>It&#x27;s even. Death by drowning, or death by car crash is still death.<p>The fact that Uncle Sam isn&#x27;t concerned about the intrusions tells us whose side he&#x27;s on.",
+    "time": 1523103517,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16778385,
+    "kids": [16779730],
+    "parent": 16776595,
+    "text":
+      "If you use a VPN then you have just moved all the access that your ISP had to your VPN service provider. It doesn&#x27;t really change much.",
+    "time": 1523057106,
+    "type": "comment"
+  },
+  {
+    "by": "drawkbox",
+    "id": 16776921,
+    "kids": [16777039],
+    "parent": 16776595,
+    "text":
+      "Couple devil&#x27;s advocate points on what ISPs can do to get encrypted traffic, since they are your network gateway there is more instilled trust:<p>- ISP offered &#x27;apps&#x27;. Get people to agree to an install of some monitoring app for some [insert random marketing benefit] from ISP. Maybe if you install the app you get more data cap space etc and they can monitor browser access. Further, install this in known apps or as add-ons on setup for other apps.<p>- ISP offered &#x27;VPN client&#x27; that again, gives some cheaper monetary benefit like more data cap space or more speed &#x27;free&#x27;, strips out other advertising or tracking as a benefit.<p>- ISP offered &#x27;email client&#x27; that does all of the above.<p>- Check for subsequent request after page loads to known ad networks and replace with their own in HTTPS<p>- ISPs like you said may start throttling encrypted content down, or charging extra to allow it.<p>- ISP level proxy MITM, modem customization for &#x27;fast lanes&#x27; that are actually slow lanes.<p>- DNS level data collection not to inject but to sell marketing profiles via metadata and correlate with other data from apps.<p>Since ISPs are your &#x27;gateway&#x27; to the internet and you pay them, most people assume trust and privacy, most don&#x27;t know they bribed their way into the tracking&#x2F;ad business, many didn&#x27;t know cable tv modems had mics either. With that assumption of trust since people are paying them, they&#x27;ll more easily fall for any of the possible attack&#x2F;tracking vectors listed and more probably.<p>With the ISP privacy protections removed [1], my guess is most ISPs, due to lack of competition, end up more like hotel wifi where tracking&#x2F;injection is the norm [2] as it is completely legal now. With the removal of privacy protections and net neutrality, we have killed the pristine, non tracked, private gateways to the internet we cherish.<p>[1] <a href=\"https:&#x2F;&#x2F;www.flake.senate.gov&#x2F;public&#x2F;index.cfm&#x2F;2017&#x2F;3&#x2F;flake-introduces-resolution-to-protect-consumers-from-overreaching-internet-regulation\" rel=\"nofollow\">https:&#x2F;&#x2F;www.flake.senate.gov&#x2F;public&#x2F;index.cfm&#x2F;2017&#x2F;3&#x2F;flake-i...</a><p>[2] <a href=\"https:&#x2F;&#x2F;medium.com&#x2F;@nicklum&#x2F;my-hotel-wifi-injects-ads-does-yours-6356710fa180\" rel=\"nofollow\">https:&#x2F;&#x2F;medium.com&#x2F;@nicklum&#x2F;my-hotel-wifi-injects-ads-does-y...</a>",
+    "time": 1523045298,
+    "type": "comment"
+  },
+  {
+    "by": "throwaway59140",
+    "id": 16778706,
+    "kids": [16779341],
+    "parent": 16776595,
+    "text":
+      "I was hoping to read through the comments and find someone would correct you, but it seems everyone is under the same false belief.<p><i>Encryption doesn&#x27;t matter.</i><p>Automated deep packet and encrypted packet inspection is burgeoning with advances that put the single-actor work-arounds to shame.<p>1). Your ISP knows your traffic is encrypted. It knows what cipher and protocol you&#x27;re using, and its routing is not protocol-agnostic.<p>2). Your ISP knows beyond &quot;mostly confident&quot; the type of files your packets contain. If you don&#x27;t keep your connection open and use any of the public encryption methods, your ISP will know exactly what you&#x27;ve downloaded to a reasonable degree.<p>3). HTTPS is only as good as all the different pieces combined (browser, root CA, server, site, client). And if one of those goes bad, it&#x27;s worthless.<p>4). If you use encryption heavily, you&#x27;re already flagged.<p>5). If you don&#x27;t use your ISP&#x27;s CDN, you&#x27;re already flagged.<p>6). If you connect to any other site besides Google, YouTube, Reddit, Twitter, Facebook, Wikipedia, or Instagram your aggregate data will be quickly analyzed and compared with a threat table, and appropriately flagged.<p>7). Traffic analysis is trivial when you&#x27;re the one routing the traffic.<p>Google is Dunning Kruger evil. ISPs are &quot;pick up that can&quot; evil. The lack of serious developments in HTTPS are &quot;see no evil&quot; stupid. The thought that HTTPS is anything but a red hearing is &quot;Ivan the Fool&quot; stupid.",
+    "time": 1523061271,
+    "type": "comment"
+  },
+  {
+    "by": "drderidder",
+    "id": 16781211,
+    "parent": 16776595,
+    "text":
+      "Several years ago I joined a stealth-mode spinoff of a large telecom equipment manufacturer, and worked on deep-packet inspection (DPI) on 10Gb&#x2F;s fiber-optic networks. The initial motivation for the project was a desire by telecom companies to obtain personally identifiable information and profiles for targeted advertising, and as we learned, a number of other interesting use cases, like reducing customer churn. At the NOCs there were a number of various servers in racks that were getting a feed of raw traffic for a variety of purposes. It wasn&#x27;t a free-for-all, but it was eye-opening. I recall reading through a Cisco router manual for example (not the company I worked for) and seeing its port-mirroring capabilities blatantly promoted as a means for customer profiling and targeted advertising.<p>Outside of the telecom industry itself there was quite a bit of resistance to this sort of thing, and we had to go before the US Congress to explain what we were up to. Profiling for the sake of profiling was not smooth sailing, but if it was for the purpose of &quot;security&quot; then it was more or less a free pass. The forcus of our DPI technology turned to the task of network-based threat detection as its primary raison d&#x27;être, with customer profiling being an opt-in service by which users could obtain the security service in exchange for targeted ads.<p>In the years since, I don&#x27;t expect that Telecom&#x27;s desire to be much more than a &quot;dumb pipe&quot; has diminished in the least. They view the traffic they carry on their networks to be their property, in a way. They feel entitled to inspect it, throttle it, slice and dice it any conceivable way they can to maximise their profits. Its one of the reasons I quit.<p>Imagine the US postal service steaming open every letter and opening every package that went through their system, so they could plug your mailbox with targeted special offers or increase the delivery fees for certain things. Its all similar BS with ISPs, but it&#x27;s all techie stuff and heavily lobbied so the public gets bamboozled.<p>You raise a really good point about wide-spread encryption being an impediment to ISP profiling. But there is a LOT you can surmise from user traffic even if you don&#x27;t know the exact content of the encrypted payloads. Just analyzing IP addresses and times can reveal a ton of information about a person. My first patent [US20100161795] was in fact a NAT session detection and tracking technique to identify and track individual users within a household through TCP&#x2F;IP analysis. Using this technique someone <i>could</i> get a pretty clear picture of how many people were in a household, their ages, genders, interests and patterns of activity, even without delving into the http payload of the packets.  We didn&#x27;t, but this kind of thing is most definitely possible, and I wouldn&#x27;t trust other shady entities not to do it.",
+    "time": 1523115746,
+    "type": "comment"
+  },
+  {
+    "by": "cpeterso",
+    "id": 16778268,
+    "kids": [16779505, 16779644],
+    "parent": 16776595,
+    "text":
+      "ISPs have your credit card number and home address. They can link your online and offline lives.<p>Google and Facebook have detailed social graph and search query, but your ISP could piece together a lot of that information by tracking your DNS queries, unencrypted HTTP traffic, email if you use their mail servers, and offline information.",
+    "time": 1523056057,
+    "type": "comment"
+  },
+  {
+    "by": "fulafel",
+    "id": 16777054,
+    "kids": [16778143],
+    "parent": 16776595,
+    "text":
+      "If your isp colludes with advertisers, they can associate the vpn traffic using traffic analysis.",
+    "time": 1523046272,
+    "type": "comment"
+  },
+  {
+    "by": "BeetleB",
+    "id": 16778224,
+    "parent": 16776595,
+    "text":
+      "&gt;while Google&#x2F;Facebook have your _actual_ data...<p>Is it _your_ data, or is it _their_ data? I&#x27;m asking in both the literal (based on terms of service, etc) and the more abstract way? Obviously, for the latter, it is a combination. I wish the narrative was discussed with that in mind. Most of what I tend to see is a widespread assumption that the user owns the data, and has given companies like Facebook very limited powers, and that somehow Facebook is breaking that trust. That narrative is, IMO, rubbish. We gave them very broad powers, and the users should accept the consequences.<p>&gt;However, Google&#x2F;Facebook break all the security layers because we explicitly _trust_ them with all our data.<p>If we explicitly _trust_ them, then are they _breaking_ anything? It just seems silly when we explicitly say (as many of my friends have said in the past) &quot;I don&#x27;t care what Facebook does with my information&quot; and then we talk about it as if they are doing something wrong (using words like &quot;break&quot;).<p>When I give my bank all my money with the understanding that they can hold it, as well as lend it, we don&#x27;t refer to it as &quot;breaking&quot; anything.",
+    "time": 1523055600,
+    "type": "comment"
+  },
+  {
+    "by": "throwawayjava",
+    "id": 16776664,
+    "kids": [16777827, 16776796, 16777360, 16776833],
+    "parent": 16776595,
+    "text":
+      "<i>&gt; ISPs have to work around widespread (and growing) encryption, while Google&#x2F;Facebook have your _actual_ data.</i><p>Today. But in terms of risk moving forward, I think ISPs are way worse. Two reasons:<p>1) I <i>really can</i> choose not to use Google&#x2F;Facebook. There exist very solid, privacy-respecting alternatives for every service these two companies offer. It&#x27;s a matter of consumer choice.<p>This is not the case for ISPs. If my (one) local &quot;high-speed&quot; ISP demands that I install a new root cert so they can MITM all my traffic, my choices are to a) capitulate, or b) find a way to live with very low-speed DSL&#x2F;dial-up.<p>Monopoly power backed up by a vast network of cables has way more staying power than monopoly power backed up by social network effects (FB) or superior software offerings (Gmail).<p>2) You might argue that history demonstrates we don&#x27;t have to worry about ISPs demanding to MITM customer traffic. But Historically, ISPs weren&#x27;t incentivized to snoop because of regulatory barriers that prevented collection&#x2F;use of data for advertising purposes. In the case of US ISPs, changes in regulator landscape suggest that past behavior doesn&#x27;t guarantee future behavior.",
+    "time": 1523043551,
+    "type": "comment"
+  },
+  {
+    "by": "fightorflight",
+    "id": 16775491,
+    "kids": [16775774],
+    "parent": 16775344,
+    "text":
+      "People should also include credit card companies as they&#x27;ve been tracking purchases and inferring data long before Facebook has existed.",
+    "time": 1523037139,
+    "type": "comment"
+  },
+  {
+    "by": "rayiner",
+    "id": 16776452,
+    "kids": [16777830, 16777815, 16777834],
+    "parent": 16775344,
+    "text":
+      "Largely because FB is mining your data today and has built a half-trillion dollar business doing it. For ISPs it&#x27;s mostly theoretical and attempts here and there. (That&#x27;s why this article uses the phrase &quot;pose a greater surveillance <i>risk</i>&quot;).",
+    "time": 1523042051,
+    "type": "comment"
+  },
+  {
+    "by": "sykh",
+    "id": 16775402,
+    "kids": [16775525, 16775947, 16775561],
+    "parent": 16775344,
+    "text":
+      "Don&#x27;t ISPs like Comcast have access to orders of magnitude fewer users?  I think it has to do with scale and the fact the Cambridge Analytica used Facebook data and not, it seems, Comcast data.  Overall Facebook is just the focal point of the ire.  The ire though is really not Facebook as such but rather unregulated data collection by private companies.",
+    "time": 1523036748,
+    "type": "comment"
+  },
+  {
+    "by": "saudioger",
+    "id": 16775375,
+    "parent": 16775344,
+    "text":
+      "Facebook is mildly transparent about it so it&#x27;s easy to criticize, the ISPs are black boxes.",
+    "time": 1523036618,
+    "type": "comment"
+  },
+  {
+    "by": "jstanley",
+    "id": 16776421,
+    "kids": [16776566, 16777849],
+    "parent": 16775344,
+    "text":
+      "Because Facebook is in the business of monetising data about people and ISPs aren&#x27;t.<p>It&#x27;s not obvious to me that ISPs would bother (except where required to do so by law). They could just route traffic and not inspect anything.",
+    "time": 1523041907,
+    "type": "comment"
+  },
+  {
+    "by": "wybiral",
+    "id": 16776626,
+    "parent": 16775344,
+    "text":
+      "FB (and other data collection businesses) pose a greater threat because they have direct access to your content rather than passive streams of increasingly encrypted data. And web trackers get access to your browsing behavior even if you aren&#x27;t a user in a way that gives them more oversight on TLS connections since they&#x27;re embedded (somewhat unwittingly) by webpages throughout the internet.<p>TLS limits what your ISP can see. So until they block encrypted traffic it doesn&#x27;t scare me too much.",
+    "time": 1523043287,
+    "type": "comment"
+  },
+  {
+    "by": "nielsbot",
+    "id": 16775401,
+    "parent": 16775344,
+    "text":
+      "Good question... Maybe:<p>1. I don&#x27;t think people have thought about it enough. I know I haven&#x27;t. I think part of the reason is AT&amp;T et. al. seem &quot;inevitable&quot; whereas Facebook is conveniently &quot;quittable&quot;.<p>2. FB&#x27;s lack of privacy has been discussed in the open and in the news recently, making it stand out.<p>3. (One of) FB&#x27;s goals is to sell you to advertisers...",
+    "time": 1523036734,
+    "type": "comment"
+  },
+  {
+    "by": "reaperducer",
+    "id": 16775937,
+    "kids": [16777864],
+    "parent": 16775344,
+    "text":
+      "&gt; I&#x27;ve always wondered why people are so hard on Facebook, but give At&amp;t and the other ISPs a free pass to do whatever they want.<p>Because we choose to use AT&amp;T and other ISPs.  Facebook has enough beacons spread across millions of websites that even if you choose not to have a Facebook account, it&#x27;s still monitoring you.",
+    "time": 1523039301,
+    "type": "comment"
+  },
+  {
+    "by": "spiderfarmer",
+    "id": 16775360,
+    "parent": 16775344,
+    "text": "...mostly in the US.",
+    "time": 1523036563,
+    "type": "comment"
+  },
+  {
+    "by": "mtgx",
+    "id": 16775510,
+    "parent": 16775344,
+    "text":
+      "Whenever you think &quot;why don&#x27;t users care about this privacy issue&quot; stop and ask yourself &quot;wait, do people actually <i>know</i> about this privacy issue and do they understand the implications, though?&quot;<p>Do you think most people have actually thought about how their ISPs must track their every interaction with the web and read all of their unencrypted chats and traffic?<p>I think that what&#x27;s needed is more <i>awareness</i> about what the ISPs are doing, but I really don&#x27;t like headlines and articles like this one that try to <i>minimize</i> what Facebook and Google are doing.<p>The ISPs tracking may be more all-encompassing, but a large portion of the web, especially popular websites are becoming &quot;dark&quot; to them, as major sites adopt HTTPS encryption. Their next most valuable tracking tool besides HTTP is probably the DNS server. And to get people to change that you&#x27;ll need raise a <i>lot</i> of awareness about it.<p>I guess Microsoft, Google, and Apple enabling their own DNS resolvers by default on their operating system would be a <i>small</i> improvement, but you&#x27;re kind of moving the problem instead of solving it. And Google already does that with recent versions of Android, I believe.",
+    "time": 1523037229,
+    "type": "comment"
+  },
+  {
+    "by": "ThomPete",
+    "id": 16775526,
+    "parent": 16775344,
+    "text":
+      "Because most people haven&#x27;t actually thought about this very deeply and if they did they would realize Facebook doesn&#x27;t &quot;know&quot; a fraction of the things people claim they do[1] which makes the whole CA hysteria even more absurd.<p>[1] <a href=\"https:&#x2F;&#x2F;www.ft.com&#x2F;content&#x2F;d7c955ac-3213-11e8-ac48-10c6fdc22f03\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ft.com&#x2F;content&#x2F;d7c955ac-3213-11e8-ac48-10c6fdc22...</a>",
+    "time": 1523037300,
+    "type": "comment"
+  },
+  {
+    "by": "GordonS",
+    "id": 16779788,
+    "kids": [16779838],
+    "parent": 16778743,
+    "text":
+      "&gt; If you use Chrome or Firefox, almost all of your data is hidden from the ISP<p>Can you elaborate on how Chrome and Firefox hide your traffic from your ISP, and what privacy advantages they have over IE, Safari or Opera?",
+    "time": 1523086032,
+    "type": "comment"
+  },
+  {
+    "by": "gcb0",
+    "id": 16779731,
+    "parent": 16777037,
+    "text":
+      "plus google amp, where google serves your site from their servers. and 4.4.4.4 and 8.8.8.8 dns servers, where they can see which ssl site you visit that still haven&#x27;t added their spy code",
+    "time": 1523084681,
+    "type": "comment"
+  },
+  {
+    "by": "Jeff_Brown",
+    "id": 16775451,
+    "kids": [16775896],
+    "parent": 16775427,
+    "text":
+      "There are countries where Facebook is a primary means of communication.",
+    "time": 1523036987,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16775770,
+    "parent": 16775685,
+    "text":
+      "Indeed. They can know you&#x27;re at WebMD, not that you looked up erectile dysfunction symptoms at WebMD. Only the ad companies get that kind of detail.<p>And beyond that, we&#x27;re so centralized these days that most websites people spend time on are generic. For example, you have no idea what someone&#x27;s interests are because they connect to Reddit, Google, Facebook, Twitter, and YouTube, nor who they might be communicating with over those domains.",
+    "time": 1523038408,
+    "type": "comment"
+  },
+  {
+    "by": "fiatpandas",
+    "id": 16779141,
+    "parent": 16776693,
+    "text":
+      "&gt;Secondly an ISP charges you a subscription and that is their revenue model. They are not incentivised to build an elaborate profile on your in order to deliver advertisement.<p>Please, everyone, stop saying things like this. Just because you pay a company money for a service does not mean you magically have a perfectly balanced relationship with them. They are in a position of extreme power and will not stop caring about aggregating what you do in a machine readable format in fine detail, all the while doing so behind a veil of legalese opt-out style tactics.<p>Beyond the lobbying for more relaxed data collection &#x2F; monetization laws, ISPs have been fined in the past for injecting tracking cookies to keep better record of your browsing habits. They’ve been caught selling IP identification api’s. No, they don’t care about delivering advertising to you, they just want to broker your data to companies who will.",
+    "time": 1523069578,
+    "type": "comment"
+  },
+  {
+    "by": "kraig",
+    "id": 16777342,
+    "parent": 16776693,
+    "text":
+      "came here to say this, surprised i had to dig so far to find this view",
+    "time": 1523048136,
+    "type": "comment"
+  },
+  {
+    "by": "throwawayjava",
+    "id": 16776736,
+    "parent": 16776693,
+    "text":
+      "<i>&gt; Secondly an ISP charges you a subscription and that is their revenue model. They are not incentivised to build an elaborate profile on your in order to deliver advertisement.</i><p>That&#x27;s exactly the opposite of how corporations work. Especially corporations in monopoly&#x2F;duopoly markets.<p>In fact, US ISPs lobbied heavily for the right to do <i>exactly</i> that, without user permission, and got their way.<p><i>&gt; Thirdly ISPs in most countries are required by law to support the police with surveillance information. That is done in transparent way (you can read the laws and ask your politicians).</i><p>But that&#x27;s not what this is about.",
+    "time": 1523044022,
+    "type": "comment"
+  },
+  {
+    "by": "exabrial",
+    "id": 16775548,
+    "parent": 16775434,
+    "text":
+      "You can setup your own VPN on a provider with generous transfer allocations. You can buy an off the shelf vpn. You could also use DNSCurve and exclusive https.",
+    "time": 1523037418,
+    "type": "comment"
+  },
+  {
+    "by": "xexers",
+    "id": 16775646,
+    "parent": 16775434,
+    "text":
+      "I recommend installing a VPN right on your router.  Flash your router with something like dd-wrt",
+    "time": 1523037864,
+    "type": "comment"
+  },
+  {
+    "by": "reaperducer",
+    "id": 16776393,
+    "kids": [16776529],
+    "parent": 16775542,
+    "text":
+      "&gt;If cable and phone companies were politically weaponizing my data the same way I&#x27;d be just as concerned.<p>What makes you think they aren&#x27;t?  They have influencers in Washington, just like any political group does.<p>The only difference between what the ISPs did and CA did is that the ISPs sell the data, whereas CA stole it.  Your data still gets transferred.",
+    "time": 1523041765,
+    "type": "comment"
+  },
+  {
+    "by": "losvedir",
+    "id": 16775736,
+    "kids": [16776354],
+    "parent": 16775542,
+    "text":
+      "&gt; <i>admission of using it to spread false information</i> . . . <i>weaponizing my data</i><p>Can you link me to what Cambridge Analytica actually <i>did</i> with the data? I&#x27;ve been really curious about it but I can&#x27;t find anything concrete.",
+    "time": 1523038267,
+    "type": "comment"
+  },
+  {
+    "by": "stolsvik",
+    "id": 16781783,
+    "parent": 16775662,
+    "text":
+      "Does that matter much when your next DNS lookup is erectiledysfunction.org and your next ip packets go to the ip address of that domain?",
+    "time": 1523123339,
+    "type": "comment"
+  },
+  {
+    "by": "ironjunkie",
+    "id": 16776179,
+    "kids": [16776545],
+    "parent": 16775965,
+    "text":
+      "what makes you feel that one will be &quot;private&quot;? Please don&#x27;t tell me that you believe into the Musk PR. Google used to be the same way &quot;Don&#x27;t be evil...&quot;.<p>It is the great circle of life. The incumbents love to be privacy-centric,  but as soon as they become big enough, they realize that they can make a shitload of money with data&#x2F;&#x2F;metadata now that they got a captive set of customers",
+    "time": 1523040597,
+    "type": "comment"
+  },
+  {
+    "by": "zmitri",
+    "id": 16777524,
+    "parent": 16777271,
+    "text":
+      "You were down voted, but this is actually an internal talking point that FB uses to rally their current employees behind the company with.<p>Some of the points an FB employee said about the situation around a week ago: &quot;Well the ISPs are worse&quot; &quot;Imagine if it was them instead of us, we do a better job&quot; &quot;Net Neutrality is the real problem&quot;.<p>They think of everything as a PR problem unfortunately, and would rather go this route than dealing with the problems they have.",
+    "time": 1523049354,
+    "type": "comment"
+  },
+  {
+    "by": "gcb0",
+    "id": 16779739,
+    "parent": 16775942,
+    "text":
+      "sites and isp were excempt of all common carrier laws. then fcc tried to add privacy considerations on isp similar to telcos, but that was shot down recently by republicans. granted, if the proposals also included sites&#x2F;advertising, democrats would join in shutting it down.",
+    "time": 1523084840,
+    "type": "comment"
+  },
+  {
+    "by": "gcb0",
+    "id": 16779733,
+    "parent": 16775583,
+    "text": "be more useful and run a tor node",
+    "time": 1523084720,
+    "type": "comment"
+  },
+  {
+    "by": "jogjayr",
+    "id": 16775792,
+    "kids": [16775856],
+    "parent": 16775539,
+    "text":
+      "&gt; So if that part of the article would have been adjusted to the present day situation that only thing that remains is that if these parties are your provider then they can indeed see which IP addresses you connect to<p>You&#x27;re saying that like it&#x27;s nothing. Whatever happened to &quot;metadata is often more revealing than data&quot;?<p>&gt; As opposed to Facebook and Google being present on just about every webpage and gobbling up data about all the people on the planet that have internet access.<p>You can trivially install Privacy Badger, Ghostery or any other number of tracker blockers that are available for free. Firefox comes built-in with a tracker blocker that&#x27;s pretty good too. Every person on the planet has the option to opt out from FB and Google tracking.<p>Using a VPN costs money. Some websites (eg. retailers, Netflix) aggressively block connections from VPN IPs which means you have to turn off your VPN and sacrifice your privacy to access those sites. Whereas I&#x27;ve never seen a site block you because you have Privacy Badger installed.",
+    "time": 1523038539,
+    "type": "comment"
+  },
+  {
+    "by": "pkulak",
+    "id": 16775714,
+    "kids": [16775803],
+    "parent": 16775539,
+    "text":
+      "&gt; they can indeed see which IP addresses you connect to<p>They can see the hostname, actually, because DNS isn&#x27;t encrypted. And even if you run DNS over TLS, it doesn&#x27;t matter because of SNI (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Server_Name_Indication\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Server_Name_Indication</a>).",
+    "time": 1523038139,
+    "type": "comment"
+  },
+  {
+    "by": "schoen",
+    "id": 16775675,
+    "kids": [16775760, 16775725],
+    "parent": 16775539,
+    "text":
+      "&gt; The last part is the important part: hardly anything is unencrypted these days (and if it isn&#x27;t it really should get with the times).<p>It&#x27;s always nice to see<p><a href=\"https:&#x2F;&#x2F;letsencrypt.org&#x2F;stats&#x2F;#percent-pageloads\" rel=\"nofollow\">https:&#x2F;&#x2F;letsencrypt.org&#x2F;stats&#x2F;#percent-pageloads</a><p>Everyone can do something to help increase this!<p>(On the other hand, there&#x27;s still an information leakage from the volume and timing of communications, like inferring that two people are communicating with one another in real time because their traffic flows are correlated, or figuring out what page someone&#x27;s reading on a site from that total volume of encrypted traffic downloaded.)",
+    "time": 1523037996,
+    "type": "comment"
+  },
+  {
+    "by": "gruez",
+    "id": 16775742,
+    "parent": 16775539,
+    "text":
+      "&gt;They can&#x27;t see what you watch on TV unless you configure your TV to tell them (or use a set-top box to choose your channels for you),<p>cable providers can legally encrypt all channels, even basic&#x2F;OTA ones[1], which essentially makes set-top boxes mandatory.<p>[1] <a href=\"https:&#x2F;&#x2F;hometheaterreview.com&#x2F;fcc-rules-to-make-it-harder-to-get-unencrypted-cable-channels-without-a-cable-box&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;hometheaterreview.com&#x2F;fcc-rules-to-make-it-harder-to...</a>",
+    "time": 1523038298,
+    "type": "comment"
+  },
+  {
+    "by": "pdoege",
+    "id": 16779311,
+    "parent": 16775539,
+    "text":
+      "No.  AT&amp;T has DPI on all packets that traverse its network and it cross licenses and shares financials with an extremely large number of network, credit, and transportation firms.  This includes their cell network which tracks users at GPS accuracy.<p>For your statement to be true you would have to go without credit, a vehicle, a house, an internet connection, a cable TV, a connection to a cell tower.<p>It is more likely that you are not familiar of the size and complexity of their data collection and aggregation system.",
+    "time": 1523073900,
+    "type": "comment"
+  },
+  {
+    "by": "ballenf",
+    "id": 16775959,
+    "kids": [16776000, 16776305],
+    "parent": 16775539,
+    "text":
+      "I think you&#x27;re encrypted argument is falling prey to the common fallacy of &quot;it&#x27;s only metadata&quot;. Knowing when you interact with which sites is more important than 90% of what you&#x27;re doing on those sites, in terms of profiling you and monetizing you with data brokers.",
+    "time": 1523039438,
+    "type": "comment"
+  },
+  {
+    "by": "guelo",
+    "id": 16775867,
+    "parent": 16775539,
+    "text":
+      "You&#x27;re a small minority, when you include both cell phone and broadband the vast majority of the country is a customer of one of at least one of them.<p>It would be good to see data on the relative monopoly market concentrations between the cable&#x2F;telcos vs Facebook&#x2F;Google.",
+    "time": 1523038981,
+    "type": "comment"
+  },
+  {
+    "by": "adventured",
+    "id": 16775746,
+    "kids": [16775779],
+    "parent": 16775539,
+    "text":
+      "&gt; Comcast, AT&amp;T and Verizon don&#x27;t have a single bit of data on me, I&#x27;m not a customer.<p>That&#x27;s likely incorrect. You&#x27;re traveling across their networks in routine use of the US Internet and its services&#x2F;sites. In addition to consumer services, they all have substantial business services. They probably have less data on you than Facebook &amp; Google.",
+    "time": 1523038318,
+    "type": "comment"
+  },
+  {
+    "by": "rconti",
+    "id": 16775628,
+    "kids": [16775720, 16775686],
+    "parent": 16775539,
+    "text":
+      "For the vast majority of customers, Comcast, AT&amp;T, and Verizon know what sites you visit, what types of data you pass to them, every single DNS lookup you make, etc. Sorry, but this is FAR more intrusive than Facebook, which you CLAIM has lots of data on you even if you don&#x27;t use their service. It&#x27;s harder to avoid Google than it is to avoid Facebook, but again, it&#x27;s doable.",
+    "time": 1523037786,
+    "type": "comment"
+  },
+  {
+    "by": "notyourwork",
+    "id": 16776675,
+    "parent": 16775918,
+    "text":
+      "I think in your case its more likely they mass mailed a neighborhood minus their cable subscribers.",
+    "time": 1523043622,
+    "type": "comment"
+  },
+  {
+    "by": "lazerpants",
+    "id": 16776515,
+    "parent": 16775918,
+    "text":
+      "I just received a similar mailer from Time Warner, and we use Sling. However, I think they are just trying to capture a market segment that they entirely missed the boat on, and that it is coincidental. I guess I could ask my neighbors if they received the same mailer.",
+    "time": 1523042529,
+    "type": "comment"
+  },
+  {
+    "by": "mehrdadn",
+    "id": 16776807,
+    "kids": [16778874],
+    "parent": 16776526,
+    "text":
+      "What&#x27;s so weird about that? Every company seems to record communication between itself and its customers; Comcast is saying it can do the same.",
+    "time": 1523044491,
+    "type": "comment"
+  },
+  {
+    "by": "savanaly",
+    "id": 16776798,
+    "kids": [16777014, 16780249, 16776920],
+    "parent": 16776526,
+    "text":
+      "Well doesn&#x27;t that just mean they&#x27;re allowed to record the conversations between me and  their tech support? How is that worrisome? I assumed the person you were replying to was asserting that Comcast had proclaimed its right to record all communications I had over the internet.",
+    "time": 1523044412,
+    "type": "comment"
+  },
+  {
+    "by": "boznz",
+    "id": 16776831,
+    "parent": 16776526,
+    "text":
+      "Here&#x27;s mine in New Zealand (Slingshot), which sounds a bit more fair<p>&quot;We do not proactively monitor what content you download or access, however, we must act on lawful requests for information and&#x2F;or interception as well as infringement notices which we receive under the Copyright (Infringing File Sharing) Amendment Act 2011. This action may include sending you an infringement notice&quot;",
+    "time": 1523044623,
+    "type": "comment"
+  },
+  {
+    "by": "samstave",
+    "id": 16776620,
+    "kids": [16780267],
+    "parent": 16776526,
+    "text": "WTF?",
+    "time": 1523043251,
+    "type": "comment"
+  },
+  {
+    "by": "Analemma_",
+    "id": 16775757,
+    "kids": [16776340, 16776647, 16775844, 16776630],
+    "parent": 16775517,
+    "text":
+      "Lodge a complaint with Pai’s FCC!<p>Thanks, I needed a good laugh this morning.",
+    "time": 1523038346,
+    "type": "comment"
+  },
+  {
+    "by": "fencepost",
+    "id": 16776042,
+    "kids": [16776467],
+    "parent": 16775916,
+    "text":
+      "Third party DNS is at best a very minor hiccup in the ease of an ISP monitoring where you&#x27;re going, though in combination with things like HTTPS Everywhere it&#x27;s a start - mostly if you&#x27;re going to good-sized sites where most of your traffic actually goes to CDN providers.<p>Hm, thinking about it as I write, I could see how encrypted DNS plus everything being encrypted and served via CDN could actually cut down a lot on what carriers can see. Still far from perfect, but not quite as bad as I was originally thinking.<p>Edit: I wasn&#x27;t familiar with Server Name Indication (destination hostname is unencrypted even though the rest of the URL and session are encrypted).",
+    "time": 1523039901,
+    "type": "comment"
+  },
+  {
+    "by": "justinzollars",
+    "id": 16776373,
+    "parent": 16775916,
+    "text":
+      "I&#x27;m not familiar with how to set this up. Do you have a link to a guide to use such a service for me and others?",
+    "time": 1523041663,
+    "type": "comment"
+  },
+  {
+    "by": "rmcpherson",
+    "id": 16776618,
+    "kids": [16776999, 16776841],
+    "parent": 16775640,
+    "text":
+      "One of the problems I&#x27;ve run into with using a vpn service is that many services block IPs from common vpn services. While this may be due to abuse originating from those IPs this still seems like a lazy approach to abuse prevention.<p>One approach that could work around this in many cases is to run a VPS with a private VPN server on a cloud provider. This is beyond the technical ability of the average user though and costs more than most VPN services.",
+    "time": 1523043239,
+    "type": "comment"
+  },
+  {
+    "by": "r00fus",
+    "id": 16775688,
+    "kids": [16775812, 16775908],
+    "parent": 16775640,
+    "text":
+      "Are VPN Routers a good option, or do you recommend VPN on each device?",
+    "time": 1523038032,
+    "type": "comment"
+  },
+  {
+    "by": "amdavidson",
+    "id": 16775995,
+    "parent": 16775838,
+    "text":
+      "The HIPAA violation would be on the care provider by transmitting in cleartext over the internet.<p>If they&#x27;re transmitting properly over TLS then no patient info would be divulged.",
+    "time": 1523039658,
+    "type": "comment"
+  },
+  {
+    "by": "kristianc",
+    "id": 16779999,
+    "kids": [16780279],
+    "parent": 16778494,
+    "text":
+      "&gt; The same is not really true of companies like Google or Facebook. Collecting and making money off your personal data is the foundation of their business. Strongly protecting your privacy would require them to change their entire way of making money.<p>For Facebook maybe, but Google was a large and successful business before its &#x27;personalized&#x27; targeting was really that advanced. AdWords ran for a full four years without any kind of search personalization, and up until 2012, it was possible to turn off search personalization entirely. Google made $37bn in 2011. [1] Google Display Network, the area of Google&#x27;s business that would most obviously be disrupted by a move toward strong user privacy, only makes a fraction of that still. [2]<p>While I completely agree that Facebook would struggle without behavioral targeting, being able to buy ads on a PPC basis for users with &#x27;intent&#x27; will always be a valuable product for advertisers, regardless of targeting.<p>[1] <a href=\"https:&#x2F;&#x2F;www.wordstream.com&#x2F;blog&#x2F;ws&#x2F;2012&#x2F;01&#x2F;23&#x2F;google-revenues\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wordstream.com&#x2F;blog&#x2F;ws&#x2F;2012&#x2F;01&#x2F;23&#x2F;google-revenue...</a><p>[2] <a href=\"https:&#x2F;&#x2F;www.statista.com&#x2F;statistics&#x2F;266245&#x2F;advertising-revenue-of-google-network-sites&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.statista.com&#x2F;statistics&#x2F;266245&#x2F;advertising-reven...</a>",
+    "time": 1523092057,
+    "type": "comment"
+  },
+  {
+    "by": "delbel",
+    "id": 16778864,
+    "kids": [16779386],
+    "parent": 16778494,
+    "text":
+      "There was an ISP called NetZero that used this business model to provide free dial up and I think later on, free DSL in the 2000s.  So this isn&#x27;t a new concept, except what everyone is saying they (the ISPs) are now doing it without any kind of exchange of value apparently.",
+    "time": 1523063725,
+    "type": "comment"
+  },
+  {
+    "by": "weej",
+    "id": 16778627,
+    "kids": [16780441, 16779512, 16778904],
+    "parent": 16778494,
+    "text":
+      "I agree with you, but there is one key difference...you are paying your ISP for the service.  Google, FB, etc. provide free service offerring in exchange for your data.<p>If ISPs are going to monetize customers traffic then their terms of use better damn well call that out.<p>There is potential here for new business model for privacy based ISPs (ex: think duckduckgo for ISP) where customers pay a premium for such an offering.",
+    "time": 1523060170,
+    "type": "comment"
+  },
+  {
+    "by": "alasdair_",
+    "id": 16778340,
+    "kids": [16778822],
+    "parent": 16778082,
+    "text":
+      "&gt; A new example: you can&#x27;t log in to Starbucks&#x27; wifi (via Google) without verifying a real email address through Experian&#x27;s API. (Open the browser console and watch the requests -- see if you can use a fake email address.)<p>I used a fake address yesterday without issue.",
+    "time": 1523056682,
+    "type": "comment"
+  },
+  {
+    "by": "xorcist",
+    "id": 16780688,
+    "parent": 16780405,
+    "text":
+      "I think you underestimate the prevalence of the like button. Facebook runs code in your browser on lot of other web pages out there. Probably second only to Google.",
+    "time": 1523109072,
+    "type": "comment"
+  },
+  {
+    "by": "ereyes01",
+    "id": 16777039,
+    "kids": [16777069],
+    "parent": 16776921,
+    "text":
+      "This makes sense, though I don&#x27;t see how various &quot;carrots&quot; like faux-value-add spyware will penetrate the market significantly, since they likely can&#x27;t beat Google&#x2F;Facebook in actual delivered value. Also, spyware &#x2F; crapware already has a pretty bad rep, and will likely be flagged by system scanning tools on traditional PCs (maybe not mobile devices though).<p>Your other points about how they can (ab)use their position as the gateway to chip away the effect of encryption by laying various roadblocks (I guess the proverbial &quot;stick&quot; in the &quot;carrot&#x2F;stick&quot; trope) seems like it could have some teeth if the ISPs really doubled down on this strategy. I expect they will have to overcome significant controversy in order to be successful on a mass scale (but we&#x27;ll see I guess).<p>Encryption has gotten much easier and more widespread in recent years, and is growing. If the ISPs had really focused on attacking it a few years ago, they could&#x27;ve nipped their surveillance competition in the bud, but now it&#x27;s a harder problem for them to deal with. Not 100% insurmountable, as parent explained.",
+    "time": 1523046180,
+    "type": "comment"
+  },
+  {
+    "by": "hsivonen",
+    "id": 16779730,
+    "kids": [16780026],
+    "parent": 16778385,
+    "text":
+      "Technically not but in terms of company practices or legal environment it can change a lot.<p>For example, are $US_ISP and F-Secure in the same bucket in practice?",
+    "time": 1523084678,
+    "type": "comment"
+  },
+  {
+    "by": "HenryBemis",
+    "id": 16777222,
+    "kids": [16781987],
+    "parent": 16777084,
+    "text":
+      "iCloud: Apple has the keys :(<p>Dropbox: Dropbox has the keys :(<p>Crashplan: I have the keys :)",
+    "time": 1523047408,
+    "type": "comment"
+  },
+  {
+    "by": "thebongoboy",
+    "id": 16779341,
+    "kids": [16780230],
+    "parent": 16778706,
+    "text":
+      "&gt;If you connect to any other site besides Google, YouTube, Reddit, Twitter, Facebook, Wikipedia, or Instagram your aggregate data will be quickly analyzed and compared with a threat table, and appropriately flagged.<p>Huh? What are you \ntalking about?<p>&gt;If you use encryption heavily, you&#x27;re already flagged.<p>&gt;If you don&#x27;t use your ISP&#x27;s CDN, you&#x27;re already flagged.<p>What types of encryption? Since when did ISPs make users use a CDN? Again, I don’t get what you’re saying.<p>Sources and more information would be greatly appreciated.",
+    "time": 1523074782,
+    "type": "comment"
+  },
+  {
+    "by": "freddybobs",
+    "id": 16780434,
+    "parent": 16777092,
+    "text":
+      "Whilst a VPN is an important and arguably now necessary way to protect yourself on the internet, it&#x27;s use in practice is very far from a sliver bullet. Ignoring the somewhat inevitable problems of latency and bandwidth - much of the internet appears hostile to VPNs. A significant number or sites either don&#x27;t work at all, or are a pain to use.<p>For example<p>* On NordVPN through US servers you can&#x27;t access Amazon (!) Although through Canadian servers you are ok.<p>* Costco, Apple store, Business Insider, YouTube, google, netflex, dell, consumer reports, ebay - either don&#x27;t work, or are a pain to make work<p>* On PureVPN you can&#x27;t send email - until you have your domain whitelisted<p>* On PureVPN it&#x27;s a crap shoot if you get a connection<p>More detail on experiences with PureVPN and NordVPN are here..<p><a href=\"https:&#x2F;&#x2F;www.toytheory.com&#x2F;?p=295\" rel=\"nofollow\">https:&#x2F;&#x2F;www.toytheory.com&#x2F;?p=295</a><p><a href=\"https:&#x2F;&#x2F;www.toytheory.com&#x2F;?p=273\" rel=\"nofollow\">https:&#x2F;&#x2F;www.toytheory.com&#x2F;?p=273</a><p><a href=\"https:&#x2F;&#x2F;www.toytheory.com&#x2F;?p=321\" rel=\"nofollow\">https:&#x2F;&#x2F;www.toytheory.com&#x2F;?p=321</a><p>(edit: formatting)",
+    "time": 1523103948,
+    "type": "comment"
+  },
+  {
+    "by": "2bitencryption",
+    "id": 16778669,
+    "kids": [16779774, 16779699],
+    "parent": 16777092,
+    "text":
+      "Just wondering, what makes you trust your VPN provider more than your ISP?",
+    "time": 1523060757,
+    "type": "comment"
+  },
+  {
+    "by": "kardos",
+    "id": 16777896,
+    "parent": 16777092,
+    "text":
+      "&gt; I, too, use encrypted VPN, but we are just a minority.<p>You&#x27;re right that VPN usage is technically a minority [1], but it is well beyond fringe usage.<p>[1] <a href=\"https:&#x2F;&#x2F;cdn2.hubspot.net&#x2F;hubfs&#x2F;304927&#x2F;Downloads&#x2F;VPN-Usage-Around-the-World-Infographic.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;cdn2.hubspot.net&#x2F;hubfs&#x2F;304927&#x2F;Downloads&#x2F;VPN-Usage-Ar...</a>",
+    "time": 1523052374,
+    "type": "comment"
+  },
+  {
+    "by": "troncjb",
+    "id": 16777433,
+    "kids": [16777517, 16778343],
+    "parent": 16777092,
+    "text":
+      "I am the same as you, but I worry the opposite. Using an encrypted VPN in a sea of unencrypted traffic paints a big target on you that says &quot;Im doing things I don&#x27;t want you to see&quot;. You can bet they are working on &#x2F; can already decrypt and some three letter agency is targeting specifically VPN traffic.",
+    "time": 1523048738,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16779505,
+    "parent": 16778268,
+    "text":
+      "Anyone who&#x27;s ever bought an Android app has also given Google their credit card number and home address.<p>Also, Facebook and Google can both determine your home address by where your phone (and it&#x27;s location tracking) idles for several hours a day.<p>Google buys access to credit card providers so they can link the ads displayed to you with purchases you make, to report how effective the ads are to the advertisers.",
+    "time": 1523078830,
+    "type": "comment"
+  },
+  {
+    "by": "mantas",
+    "id": 16779644,
+    "kids": [16780244],
+    "parent": 16778268,
+    "text":
+      "Why would ISP have credit card number? I pay my ISP with old good wire transfer.",
+    "time": 1523082415,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16775803,
+    "parent": 16775714,
+    "text":
+      "Ah right you are, so yes, they can get to that. Even so, that&#x27;s just a host, which is a far cry from the full URL which is typically what Facebook and Google have access to through &#x27;like&#x27; buttons and analytics.",
+    "time": 1523038615,
+    "type": "comment"
+  },
+  {
+    "by": "bogomipz",
+    "id": 16778143,
+    "kids": [16778772],
+    "parent": 16777054,
+    "text": "Can you explain how this works?",
+    "time": 1523054710,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16775760,
+    "parent": 16775675,
+    "text":
+      "&gt; On the other hand, there&#x27;s still an information leakage from the volume and timing of communications, like inferring that two people are communicating with one another in real time because their traffic flows are correlated<p>Yes, this is a problem. But it is also totally inherent to the role of being a provider. And as long as the internet is roughly structured the way it is today that will continue.",
+    "time": 1523038352,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16775725,
+    "kids": [16775778],
+    "parent": 16775675,
+    "text":
+      "It&#x27;s pretty hard for ISPs to do that on a large scale: ISPs are only regional monopolies, in the areas they are monopolies at all. There&#x27;s likely a relatively small percentage of your communications where both ends of the communication are using the same ISP.",
+    "time": 1523038214,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16775856,
+    "kids": [16775905],
+    "parent": 16775792,
+    "text":
+      "&gt; Whatever happened to &quot;metadata is often more revealing than data&quot;?<p>That&#x27;s true, but the article claims that the actual data is accessible which it isn&#x27;t in most cases.<p>And it&#x27;s a bit in the nature of being an ISP, after all the <i>only</i> thing they are supposed to do is to take your packets and deliver them elsewhere, if they didn&#x27;t do that then they wouldn&#x27;t be in business at all. To the extent that this raises awareness of how the internet works under the hood I&#x27;m all for it but it is designed that way, it is not as if AT&amp;T, Comcast and Verizon have gone out of their way to get this ability by injecting their content into each and every web page.<p>&gt; You can trivially install Privacy Badger, Ghostery or any other number of tracker blockers that are available for free.<p>Yes, and I do. And most people do not.<p>&gt; Every person on the planet has the option to opt out from FB and Google tracking.<p>Yes, but only a small percentage actually does so. And Google is present in so many market segments that in practice you will be interacting with it whether you want it or not even if you have a blocklist a mile long. Because that email you just sent to that innocent looking domain is actually gmail masquerading as some other domain.<p>&gt; Whereas I&#x27;ve never seen a site block you because you have Privacy Badger installed.<p>I see this several times per week actually, usually related to some over-eager adblocker detector.",
+    "time": 1523038909,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16775779,
+    "parent": 16775746,
+    "text":
+      "I highly doubt there is a recognizable profile for me on Comcast, AT&amp;T or Verizon servers, I&#x27;m 100% sure there is a recognizable profile of me on FB&#x27;s servers. And I&#x27;m not a customer of any one of them.<p>The worst that I can think of that AT&amp;T would have is some traffic stats, and they wouldn&#x27;t know that it was <i>me</i>, just that some traffic from some random EU IP made it through one of their choke points. That entirely does not worry me.",
+    "time": 1523038479,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16777827,
+    "parent": 16776664,
+    "text":
+      "You just admitted you do have the same choice for ISPs: You can choose to live with a degraded option&#x2F;experience.<p>In the same way, many would argue leaving Google or Facebook requires they give up on key features and benefits of living on the Internet. Like, you know, talking to your friends.",
+    "time": 1523051872,
+    "type": "comment"
+  },
+  {
+    "by": "mehrdadn",
+    "id": 16776796,
+    "kids": [16776829],
+    "parent": 16776664,
+    "text":
+      "&gt; If my (one) local &quot;high-speed&quot; ISP demands that I install a new root cert so they can MITM all my traffic<p>I don&#x27;t see what sense it makes to worry about that before it actually happens. Especially when there&#x27;s no reason to believe it is going to happen.",
+    "time": 1523044405,
+    "type": "comment"
+  },
+  {
+    "by": "walshemj",
+    "id": 16777360,
+    "parent": 16776664,
+    "text":
+      "So choose a different ISP not all countries have the USA&#x27;s broken telco regulation LLU is what you need.",
+    "time": 1523048261,
+    "type": "comment"
+  },
+  {
+    "by": "paulie_a",
+    "id": 16776833,
+    "kids": [16776842],
+    "parent": 16776664,
+    "text":
+      "You can&#x27;t choose to not use Facebook unless you just go completely offline",
+    "time": 1523044647,
+    "type": "comment"
+  },
+  {
+    "by": "welder",
+    "id": 16777864,
+    "parent": 16775937,
+    "text":
+      "Majority of people in the USA don&#x27;t choose their ISP, their city zones IPSs per neighborhood.",
+    "time": 1523052182,
+    "type": "comment"
+  },
+  {
+    "by": "dylz",
+    "id": 16775774,
+    "kids": [16776631, 16776104],
+    "parent": 16775491,
+    "text": "you forgot selling all of the purchase data.",
+    "time": 1523038446,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16776000,
+    "parent": 16775959,
+    "text":
+      "Yes, but it is far harder for my ISP do monetize that data than it is for the two largest ad networks on the planet.<p>My ISP is welcome to know what sites I connect to because I pay them to do exactly that. Facebook and Google inserting their riders everywhere I go is not part of something I consent to.<p>And that&#x27;s the root of the problem, if I send an envelope with my return address on the back the postal services have access to the meta-data and it is my decision to let them.<p>But it is <i>not</i> my decision to let a bunch of unrelated third parties use the contents of the letters to build up profiles on me and my counterparty.",
+    "time": 1523039690,
+    "type": "comment"
+  },
+  {
+    "by": "jstarfish",
+    "id": 16776305,
+    "parent": 16775959,
+    "text":
+      "The irony is that with more and more sites wanting to be &quot;portals&quot;, more traffic is centralized within a single domain and none of the lateral movements are visible to the ISP.<p>Then: You go to foxnews.com, then you go to pornhub.com. Based on hostnames we can make some inferences about you and your behaviors.<p>Now: You go to reddit.com(&#x2F;thedonald), then you go to reddit.com(&#x2F;twerkinggifs). Thanks to HTTPS, the specific subs you&#x27;re visiting aren&#x27;t visible to the ISP; all they can see is you going to reddit a bunch of times.",
+    "time": 1523041260,
+    "type": "comment"
+  },
+  {
+    "by": "crowbahr",
+    "id": 16776566,
+    "parent": 16776421,
+    "text":
+      "&quot;It&#x27;s not obvious to me that ISPs would bother&quot;<p>The issue is mainly that ISPs are also, by and large, the Cable Companies. Cable is dying. It&#x27;s dying quickly. Cable companies are seeing dwindling revenue streams from their cable packages and are going to be looking for ways to bolster their shareholder&#x27;s profits despite the inevitable death of traditional cable programming schemes.<p>How do they do that?<p>They do it by selling anything and everything they can to advertisers, exactly like what they&#x27;ve been doing with cable. Coincidentally that&#x27;s also exactly the reason that cable is dying.",
+    "time": 1523042860,
+    "type": "comment"
+  },
+  {
+    "by": "welder",
+    "id": 16777849,
+    "parent": 16776421,
+    "text": "ISPs also are in the business of selling your data.",
+    "time": 1523052070,
+    "type": "comment"
+  },
+  {
+    "by": "welder",
+    "id": 16777830,
+    "parent": 16776452,
+    "text":
+      "Spoiler Alert: ISPs also already sell your data to advertisers and data middle-men. They also have built a business selling your data.",
+    "time": 1523051904,
+    "type": "comment"
+  },
+  {
+    "deleted": true,
+    "id": 16777815,
+    "parent": 16776452,
+    "time": 1523051798,
+    "type": "comment"
+  },
+  {
+    "by": "timgilbert",
+    "id": 16777834,
+    "parent": 16776452,
+    "text":
+      "I agree, though I&#x27;d say that this is because of general ISP incompetence, not because the ISPs don&#x27;t <i>want</i> to do this.",
+    "time": 1523051930,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16775525,
+    "parent": 16775402,
+    "text":
+      "Yes. Google and Facebook both have global reach and billions of users, but they also spend millions of dollars on PR to convince you the ISPs are the real privacy threat.<p>The author&#x27;s LinkedIn includes recently working for a law firm, Fenwick &amp; West, which proudly brags about Google being one of their clients on their career page.<p>If an article is doing &quot;whataboutism&quot; that minimizes the danger of big tech, check their resume, it&#x27;s probably their job.",
+    "time": 1523037297,
+    "type": "comment"
+  },
+  {
+    "by": "reaperducer",
+    "id": 16775947,
+    "parent": 16775402,
+    "text":
+      "&gt; Don&#x27;t ISPs like Comcast have access to orders of magnitude fewer users?<p>Yes, but because it&#x27;s your ISP and your data it&#x27;s snooping, it suddenly becomes important.<p>As they say, one death is a tragedy.  A thousand deaths is a statistic.",
+    "time": 1523039392,
+    "type": "comment"
+  },
+  {
+    "by": "zjaffee",
+    "id": 16775561,
+    "parent": 16775402,
+    "text":
+      "Yes, they have far less users, but they also have a much longer history when it comes to user tracking and measurement in the name of ad targeting. Although I think the big difference is they can&#x27;t do network analysis.<p>This said, Comcast (which owns NBC universal), has been able to use cable boxes to improve ad targeting for decades, trace that back to internet usage, and apply it to models already built for NBC usage. A<p>n even more powerful one though is Verizon, where with their now acquisition of yahoo can use that data as well, which is combined with both all of the home data collection comcast has, but with 80+ million mobile users as well.",
+    "time": 1523037461,
+    "type": "comment"
+  },
+  {
+    "by": "peterwwillis",
+    "id": 16779838,
+    "kids": [16780161, 16780000],
+    "parent": 16779788,
+    "text":
+      "Sure. Chrome and Firefox both implement (or are implementing) DNS over HTTPS, which hides what domains you&#x27;re visiting by passing the request encrypted through a provider such as Google. Chrome also has a &quot;data saver&quot; on mobile that passes your traffic through Google&#x27;s servers. Opera has had similar functionality for some time. Safari and IE will implement DNS over HTTPS once it&#x27;s a standard, which should be soon. Don&#x27;t know if they have plans to support tunneling too.",
+    "time": 1523087246,
+    "type": "comment"
+  },
+  {
+    "by": "mattsfrey",
+    "id": 16776545,
+    "kids": [16780037, 16776604],
+    "parent": 16776179,
+    "text":
+      "True, I have more faith in that guy though. Maybe he is just another money grubbing hackjob that will eventually morph his companies into evil enterprises but it just doesn&#x27;t seem like thats his schtick atm.",
+    "time": 1523042703,
+    "type": "comment"
+  },
+  {
+    "by": "docdeek",
+    "id": 16775896,
+    "parent": 16775451,
+    "text":
+      "I wasn&#x27;t aware of that. I know of places where it is popular and a reflex for quick communication but I didn&#x27;t think it would be a&#x2F;the primary tool.",
+    "time": 1523039098,
+    "type": "comment"
+  },
+  {
+    "by": "gdulli",
+    "id": 16776529,
+    "parent": 16776393,
+    "text":
+      "Of course they lobby, and for self-serving purposes. And that could use reform. But it&#x27;s not related to the FB&#x2F;CA story. They use our data to participate in the ad-tech ecosystem but that&#x27;s separate from lobbying, which doesn&#x27;t benefit from having my likes or social graph in any way I&#x27;m aware of.",
+    "time": 1523042612,
+    "type": "comment"
+  },
+  {
+    "by": "gdulli",
+    "id": 16776354,
+    "parent": 16775736,
+    "text":
+      "Well the founder was recorded admitting to creating fake news for political purposes in an untraceable manner. The FB data would have let them target and personalize it.<p>And the 2016 election was flooded with targetted fake news from obscured foreign sources. I don&#x27;t personally have access to CA&#x27;s operations and communications. It&#x27;s for investigators to prove if A and B are connected.<p>It&#x27;s up to us to deploy Occam&#x27;s razor.",
+    "time": 1523041539,
+    "type": "comment"
+  },
+  {
+    "by": "411mrc",
+    "id": 16775720,
+    "kids": [16775920],
+    "parent": 16775628,
+    "text":
+      "It&#x27;s well known, not the poster&#x27;s personal claim:<p><a href=\"https:&#x2F;&#x2F;boingboing.net&#x2F;2017&#x2F;11&#x2F;08&#x2F;involuntary-profiling.html\" rel=\"nofollow\">https:&#x2F;&#x2F;boingboing.net&#x2F;2017&#x2F;11&#x2F;08&#x2F;involuntary-profiling.html</a><p>FB goes so far as to buy your data from others, which is why I block all trackers.  I&#x27;m sure I still leak data to FB, even though I never joined, and never will.",
+    "time": 1523038188,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16775686,
+    "kids": [16777262],
+    "parent": 16775628,
+    "text":
+      "&gt; For the vast majority of customers, Comcast, AT&amp;T, and Verizon know what sites you visit<p>They know which IP addresses you connect to. Many of those host large numbers of websites.<p>&gt; what types of data you pass to them<p>What do you mean with &#x27;what types of data&#x27;? They can&#x27;t access the headers of encrypted traffic.<p>&gt; every single DNS lookup you make<p>Yes, that&#x27;s true. And you can cache those locally.<p>&gt; etc. Sorry, but this is FAR more intrusive than Facebook, which you CLAIM has lots of data on you even if you don&#x27;t use their service.<p>Shadow profiles are a thing.<p>&gt; It&#x27;s harder to avoid Google than it is to avoid Facebook, but again, it&#x27;s doable.<p>It&#x27;s just about impossible. Every other email you send ends up in a gmail inbox. So even if you don&#x27;t use their services at all your data still ends up with them. Even if you don&#x27;t have a smartphone enough people around you will have them that your social graph will end up with Google anyway. And so on.",
+    "time": 1523038031,
+    "type": "comment"
+  },
+  {
+    "by": "fny",
+    "id": 16778874,
+    "parent": 16776807,
+    "text":
+      "This is far broader. No where in the Subscription Agreement[0] is the scope or the uses defined or limited. From what&#x27;s written here, <i>any</i> form of information sent to Comcast in <i>any</i> way will can be stored and monitored for <i>any</i> purposes.<p>IANAL, but this seems like clever lawyering to make consumers think they&#x27;re only referring to customer service calls.<p>[0]: <a href=\"https:&#x2F;&#x2F;www.xfinity.com&#x2F;corporate&#x2F;customers&#x2F;policies&#x2F;subscriberagreement\" rel=\"nofollow\">https:&#x2F;&#x2F;www.xfinity.com&#x2F;corporate&#x2F;customers&#x2F;policies&#x2F;subscri...</a>",
+    "time": 1523063916,
+    "type": "comment"
+  },
+  {
+    "by": "seorphates",
+    "id": 16777014,
+    "kids": [16777789],
+    "parent": 16776798,
+    "text":
+      "I don&#x27;t know.  I&#x27;m reading it differently.  I&#x27;m reading it in a way that almost any other entity with the power to execute on a term like that probably would - liberally and with deference to their own interpretation of lawful.  Not too mention the 100% murky scope of requests and behests of government.<p>I read that the wire is owned by Comcast.  Its agents roam free and everything traversing that wire is monitored. 100%.",
+    "time": 1523045999,
+    "type": "comment"
+  },
+  {
+    "deleted": true,
+    "id": 16780249,
+    "parent": 16776798,
+    "time": 1523099070,
+    "type": "comment"
+  },
+  {
+    "deleted": true,
+    "id": 16776920,
+    "parent": 16776798,
+    "time": 1523045297,
+    "type": "comment"
+  },
+  {
+    "by": "paulie_a",
+    "id": 16780267,
+    "parent": 16776620,
+    "text":
+      "It&#x27;s Comcast, they are a terrible company.  They manage to somehow rank worse than haliburton and BP after that oil spill",
+    "time": 1523099501,
+    "type": "comment"
+  },
+  {
+    "by": "cwingrav",
+    "id": 16776467,
+    "kids": [16776581, 16777040],
+    "parent": 16776042,
+    "text":
+      "Without encryption, they can see who you talk to, what you are saying, the rate, the frequency, from where and when.<p>With encryption (https), they can see who you talk to, the rate, the frequency, from where and when. They can&#x27;t see the actual URL (just the hostname) or data (encrypted).<p>With VPN, they see you are talking to a VPN, the rate, the frequency, from where and when. VPNs cut down on knowing who you are talking to (assuming they aren&#x27;t logging or being monitored which they could easily do).<p>Other services could be added to obfuscate rate, frequency and when I would assume, but even then those services would only be additive obfuscation (unless you cache packets for a short term... just thinking as I type).<p>Someone check me if i&#x27;m off on this these points...",
+    "time": 1523042130,
+    "type": "comment"
+  },
+  {
+    "by": "SkyMarshal",
+    "id": 16776340,
+    "parent": 16775757,
+    "text":
+      "You have to get this stuff on record in real-time so the adminstration after Pai&#x27;s will have timestamped evidence to act on. Stop being so short-sighted and defeatist about this stuff, think strategically.",
+    "time": 1523041478,
+    "type": "comment"
+  },
+  {
+    "by": "Bluestrike2",
+    "id": 16776647,
+    "kids": [16776988],
+    "parent": 16775757,
+    "text":
+      "Well, yeah. But on the other hand, the complaint records aren&#x27;t going to be deleted even under Pai.<p>The complaints likely won&#x27;t go anywhere anytime soon. But when Pai&#x27;s successor is working to repair the damage, there&#x27;s a decent chance that one of the things they&#x27;ll have to do is go through the agency&#x27;s records to figure out what was ignored. Having a record of the complaint will at least give them options in the future.<p>So file the complaint, even if it&#x27;s unlikely to matter in the short-term. :)",
+    "time": 1523043380,
+    "type": "comment"
+  },
+  {
+    "by": "bitxbitxbitcoin",
+    "id": 16775844,
+    "kids": [16777854],
+    "parent": 16775757,
+    "text":
+      "So many comments to the FCC ignored. Complaints won&#x27;t go anywhere, either.",
+    "time": 1523038844,
+    "type": "comment"
+  },
+  {
+    "by": "samstave",
+    "id": 16776630,
+    "parent": 16775757,
+    "text": "I’m not one for violence - but I challenge Pai to a public duel.",
+    "time": 1523043296,
+    "type": "comment"
+  },
+  {
+    "by": "ktta",
+    "id": 16775812,
+    "kids": [16775927, 16776490, 16775854],
+    "parent": 16775688,
+    "text":
+      "Depends on the traffic from devices. If you don&#x27;t have crazy high traffic, flash your router with openwrt and install wireguard. If the flash is too small, you can compile your own image with wireguard selected which doesn&#x27;t need as much flash space.<p>Next you can choose a cloud provider, which is metered (GCE, AWS, etc), or non-metered like OVH, or Digital Ocean(they don&#x27;t charge you if you go over the 1TB for now).<p>Or you can choose a VPN service provider like Mullvad who have wireguard option (PIA should be getting it soon), if you trust them.<p>Be careful in choosing your provider since you might be annoyed with the latency over time, or just get used to it.<p>There are tutorials for all this.",
+    "time": 1523038676,
+    "type": "comment"
+  },
+  {
+    "by": "jonjojr",
+    "id": 16775908,
+    "parent": 16775688,
+    "text":
+      "careful because I already see this coming:<p>&quot;In order to server our customers better and provide the best possible experience, VPN services will be blocked and will require a Business Tier service.  We feel that unless you have a legitimate business reason to anonymize your network traffic we will provide this service in order to protect our subscribers and network integrity. Click Here to Speak to our Sales Representative&quot;",
+    "time": 1523039152,
+    "type": "comment"
+  },
+  {
+    "by": "pgm8705",
+    "id": 16776999,
+    "kids": [16780289, 16777759],
+    "parent": 16776618,
+    "text":
+      "I run a private VPN server on Digital Ocean and still get blocked by some sites. Zillow.com comes to mind as one I was unable to access recently.",
+    "time": 1523045880,
+    "type": "comment"
+  },
+  {
+    "by": "trsse",
+    "id": 16776841,
+    "kids": [16776966],
+    "parent": 16776618,
+    "text":
+      "In practice this isn&#x27;t much of a problem, and I get it with Netflix. I turn off my VPN if I am watching Netflix on my computer and I don&#x27;t think my privacy suffers too much for it. It feels bad not to have 100% coverage but I honestly don&#x27;t care who knows what I watch &#x2F; how often I watch Netflix.",
+    "time": 1523044702,
+    "type": "comment"
+  },
+  {
+    "by": "JoshMnem",
+    "id": 16778822,
+    "parent": 16778340,
+    "text":
+      "A fake address meaning one that you don&#x27;t own, or a fake address meaning one that doesn&#x27;t exist at all? You might have entered someone else&#x27;s real email account that exists in Experian&#x27;s databases, which could be another serious problem waiting to happen.",
+    "time": 1523062852,
+    "type": "comment"
+  },
+  {
+    "by": "akvadrako",
+    "id": 16780026,
+    "kids": [16780165],
+    "parent": 16779730,
+    "text":
+      "I think using a VPN actually increases risk, because it makes you suspicious.",
+    "time": 1523092593,
+    "type": "comment"
+  },
+  {
+    "by": "drawkbox",
+    "id": 16777069,
+    "parent": 16777039,
+    "text":
+      "&gt; Encryption has gotten much easier and more widespread in recent years, and is growing.<p>When you only have a handful of large ISPs where AT&amp;T has been known to split your data to share with the NSA and authorities, that is dangerous thinking [1].<p>&gt; Room 641A is a telecommunication interception facility operated by AT&amp;T for the U.S. National Security Agency that commenced operations in 2003 and was exposed in 2006<p>That was over a decade ago, I am sure by now they have privilege to lots of that data and technology.<p>There was a #deletefacebook movement which proves that you can get rid of Facebook and people use it by choice.  There cannot be a #deleteISP movement as that is the &#x27;trusted&#x27; network gateway you can&#x27;t route around.<p>All it takes is scaring people who use ISPs to allow in more monitoring &#x27;for your safety&#x27; or &#x27;more data cap space&#x27; or &#x27;faster internet&#x27; or &#x27;lower costs&#x27;, they can legally sell that data now so there is an incentive to do these things. There is a reason they lobbied for this right and removal of net neutrality, it wasn&#x27;t to play nice.<p>Hotel wifi like ISPs here we come.<p>[1] <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Room_641A\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Room_641A</a>",
+    "time": 1523046418,
+    "type": "comment"
+  },
+  {
+    "by": "chiefalchemist",
+    "id": 16780441,
+    "parent": 16778627,
+    "text":
+      "Do you need an ISP? How about a preconfigured router &#x2F; modem that uses a privacy-minded DNS + VPS? My parents and most of my friends for example wouldn&#x27;t know how to do any of that.<p>Mind you many of them have no idea, but as their goto I could make a smart recommendation and they would likely follow.<p>Oh! And package it with a better than average 2FA. Maybe a Yubikey or similar.<p>More or less sec in a box. Perhaps not 100% complete and bulletproof but better than the current situation.",
+    "time": 1523104039,
+    "type": "comment"
+  },
+  {
+    "by": "maljx",
+    "id": 16779512,
+    "parent": 16778627,
+    "text": "bahnhof.se is an example of this. (swedish isp).",
+    "time": 1523078936,
+    "type": "comment"
+  },
+  {
+    "by": "jiveturkey",
+    "id": 16778904,
+    "kids": [16779222, 16779307, 16779502, 16779314, 16779535, 16779609],
+    "parent": 16778627,
+    "text":
+      "No there isn’t. Where in the world can you select your ISP? in a meaningful way.",
+    "time": 1523064272,
+    "type": "comment"
+  },
+  {
+    "by": "bobwaycott",
+    "id": 16779386,
+    "kids": [16780191],
+    "parent": 16778864,
+    "text":
+      "Oh, man, I remember NetZero. Hadn’t thought about them in ages. There was another similar company called Juno, iirc. I almost miss the days of free dialup services—where I explicitly <i>chose</i> to see ads in exchange for a free service, and the company was upfront that this was the exchange being performed.",
+    "time": 1523075987,
+    "type": "comment"
+  },
+  {
+    "by": "mtgx",
+    "id": 16780279,
+    "kids": [16780417],
+    "parent": 16779999,
+    "text":
+      "Indeed. Google never really had to go this &quot;ultra-targeted ads&quot; approach. Perhaps it&#x27;s the difference between Google making $30 billion in profit a year and &quot;only&quot; $10 billion in profit a year, and the difference between them mainly sticking to the search business and them paying for all of these failed projects like the $12 billion Motorola acquisition, Boston Dynamics, (even Nest, I&#x27;d say), and so on.<p>But as a company it never really needed to do those. Heck,  Google doesn&#x27;t even need to be in the self-driving business.<p>I think it&#x27;s a failure of competition and anti-trust laws that companies are allowed to grow this big to get their fingers into <i>all the pies</i> out there. The only reason they even go into all of these different industries is <i>because they&#x27;ve made so much money they don&#x27;t know what to do with it.</i><p>Sooner or later we&#x27;re going to have to deal with this rampant increase in monopolies and we&#x27;ll have to take some drastic measures to do it. We may even have to break-up companies such as Google, Amazon, Facebook, Walmart, Comcast, Disney, Goldman Sachs, and others, because they were never supposed to turn into such large conglomerates. The fact that they did was a failure of competition laws to <i>stop them</i> from growing this big in the first place.<p>Comcast, AT&amp;T, and Verizon are now allowed to spy on you, then buy media and ad companies, and then use that data to manipulate you for political purposes so you end-up voting for the candidates that will help them further consolidate their power. We should have put a stop to that along the way.",
+    "time": 1523099730,
+    "type": "comment"
+  },
+  {
+    "by": "jbros",
+    "id": 16780230,
+    "parent": 16779341,
+    "text":
+      "This sounds about right. I came to most of these conclusions myself after trying to build a secure personal VPN . Oh what a fool I was.",
+    "time": 1523098444,
+    "type": "comment"
+  },
+  {
+    "by": "paulie_a",
+    "id": 16780244,
+    "parent": 16779644,
+    "text":
+      "&gt; wire transfer<p>Which will include everything interesting about your identity. It literally is equivalent to using a debit or credit card",
+    "time": 1523098893,
+    "type": "comment"
+  },
+  {
+    "by": "tyfon",
+    "id": 16777517,
+    "kids": [16777923],
+    "parent": 16777433,
+    "text":
+      "I don&#x27;ẗ think you have to worry, I have never had a job that didn&#x27;t require encrypted vpn to access the internal networks away from the office.<p>The only company I know of that puts everything in public so to speak is google.<p>So VPN traffic is very common.",
+    "time": 1523049301,
+    "type": "comment"
+  },
+  {
+    "by": "ryandrake",
+    "id": 16778343,
+    "parent": 16777433,
+    "text":
+      "Hopefully no more than using an envelope instead of a postcard marks you as hiding something.",
+    "time": 1523056713,
+    "type": "comment"
+  },
+  {
+    "by": "oarsinsync",
+    "id": 16781987,
+    "parent": 16777222,
+    "text":
+      "&gt; Crashplan: I have the keys :)<p>Do you really? They offer a web interface with access to your data. Do you enter the encryption keys when you access the web interface, or do you enter a username and password which then provides access to the encryption keys?<p>In that situation, who really has the keys?",
+    "time": 1523125480,
+    "type": "comment"
+  },
+  {
+    "by": "ThoAppelsin",
+    "id": 16779774,
+    "parent": 16778669,
+    "text":
+      "I use DigitalOcean as my VPN provider and make my connections to there over IPSEC. I did not set the server up myself alone, but used the Algo VPN [1] script to do it for me. With this setup, I have two things to be concerned about:<p>1- I did not audit the script myself, and they may have injected various malware to the VPN server it spun up during the setup. I am not concerned enough to not trust them, but I could just read the script thoroughly to eliminate the necessity for trust.<p>2- DigitalOcean has the access to hardware, so it might be doing whatever while I am not looking, and I just never look. Similarly, I could monitor the activity on the server to assume some control.<p>I chose DO for being the cheapest ($5&#x2F;month).<p>[1] <a href=\"https:&#x2F;&#x2F;github.com&#x2F;trailofbits&#x2F;algo\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;trailofbits&#x2F;algo</a>",
+    "time": 1523085813,
+    "type": "comment"
+  },
+  {
+    "by": "PeterStuer",
+    "id": 16779699,
+    "parent": 16778669,
+    "text":
+      "It&#x27;s more VPN&#x27;ing into your own router and trusting your own ISP more than some random free wifi provider.",
+    "time": 1523083826,
+    "type": "comment"
+  },
+  {
+    "by": "jogjayr",
+    "id": 16775905,
+    "kids": [16775972],
+    "parent": 16775856,
+    "text":
+      "&gt; Yes, but only a small percentage actually does so.<p>But they can and its free to do so. Opting out of ISP tracking costs money, when I&#x27;m already paying my ISP money.<p>&gt; it is not as if AT&amp;T, Comcast and Verizon have gone out of their way to get this ability by injecting their content into each and every web page.<p>Not for lack of trying[1]. Also Verizon now owns Yahoo and AOL which have some pretty large ad networks of their own.<p>1. <a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;tech-policy&#x2F;2014&#x2F;09&#x2F;why-comcasts-javascript-ad-injections-threaten-security-net-neutrality&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;tech-policy&#x2F;2014&#x2F;09&#x2F;why-comcasts-jav...</a>",
+    "time": 1523039144,
+    "type": "comment"
+  },
+  {
+    "by": "fulafel",
+    "id": 16778772,
+    "parent": 16778143,
+    "text":
+      "I don&#x27;t know if it&#x27;s being done.<p>The web requests your browser sends to ad networks (or other colluding web properties) from vpn exit  addresses, when analyzed as an aggregate,  can be identified based on their time&#x2F;length signatures. These would be correlated by the isp with traffic between vpn termination addresses and customer addresses. ISP can resolve a customer address  to person.<p>Advertisers could add unique timing and size features to make this easier.",
+    "time": 1523062145,
+    "type": "comment"
+  },
+  {
+    "by": "throwawayjava",
+    "id": 16776829,
+    "parent": 16776796,
+    "text":
+      "See (2) from my post. Also, from another top-level comment ATM:<p><i>&gt;&gt;I recently received a &quot;terms of service&quot; update from Comcast, with the notification that they can now &quot;monitor and record anything going through the network. Including, but not limited to: audio recording, video recording, ...&quot;</i><p>I mean, look, if they&#x27;re not going to do it, then why did they lobby so hard and successfully to do it?<p>Frankly, I have a had time imagining that this <i>won&#x27;t</i> eventually happen. And sooner rather than later.",
+    "time": 1523044611,
+    "type": "comment"
+  },
+  {
+    "by": "schoen",
+    "id": 16775778,
+    "kids": [16775921],
+    "parent": 16775725,
+    "text":
+      "On the other hand, most people communicate most often with people in their own geographic region, and in the U.S. the &quot;two people on the same ISP&quot; probably happens pretty frequently with Comcast and AT&amp;T (as well as national mobile carriers in the case of mobile data service, where you might not immediately realize that the carrier could learn that information in the way that it would if you were making a phone call or sending a text message).",
+    "time": 1523038476,
+    "type": "comment"
+  },
+  {
+    "by": "throwawayjava",
+    "id": 16776842,
+    "parent": 16776833,
+    "text":
+      "<a href=\"https:&#x2F;&#x2F;gist.github.com&#x2F;thomasbilk&#x2F;1506210&#x2F;2d20f47bbcca75b2f78d6909c1637501000d846f\" rel=\"nofollow\">https:&#x2F;&#x2F;gist.github.com&#x2F;thomasbilk&#x2F;1506210&#x2F;2d20f47bbcca75b2f...</a><p>Not to mention there&#x27;s a LOT of useful stuff on the internet that&#x27;s not hosting on sites with Facebook trackers.",
+    "time": 1523044710,
+    "type": "comment"
+  },
+  {
+    "by": "justadudeama",
+    "id": 16776631,
+    "kids": [16777117],
+    "parent": 16775774,
+    "text": "Do you have a source for this?",
+    "time": 1523043297,
+    "type": "comment"
+  },
+  {
+    "by": "redbeard0x0a",
+    "id": 16776104,
+    "parent": 16775774,
+    "text": "of which I&#x27;m sure facebook buys...",
+    "time": 1523040191,
+    "type": "comment"
+  },
+  {
+    "by": "gsnedders",
+    "id": 16780161,
+    "parent": 16779838,
+    "text":
+      "&gt; Chrome and Firefox both implement (or are implementing) DNS over HTTPS, which hides what domains you&#x27;re visiting by passing the request encrypted through a provider such as Google.<p>DNS over HTTPS doesn&#x27;t actually hide the domains you&#x27;re visiting, because TLS SNI means the server hostname is sent in plaintext as part of the TLS handshake.<p>And for major sites, they probably aren&#x27;t sharing their public IPs with other sites, hence the ISP can know what site you&#x27;re connecting to via knowing what IP you&#x27;re sending datagrams to.",
+    "time": 1523096396,
+    "type": "comment"
+  },
+  {
+    "by": "iggg",
+    "id": 16780000,
+    "kids": [16781143],
+    "parent": 16779838,
+    "text":
+      "What is stopping yourisp from doing reverse dns and looking up what domain is pointing to the IP you are connecting to?",
+    "time": 1523092203,
+    "type": "comment"
+  },
+  {
+    "by": "akvadrako",
+    "id": 16780037,
+    "parent": 16776545,
+    "text":
+      "That guy is a scam artist. Tesla accounting is very abnormal; it&#x27;s probably why the CFO quit.",
+    "time": 1523092878,
+    "type": "comment"
+  },
+  {
+    "by": "RcouF1uZ4gsC",
+    "id": 16776604,
+    "parent": 16776545,
+    "text":
+      "No he just releases software that kills a customer, and then publicly releases the data from the car sensors to paint the now dead customer as an incompetent driver. Sounds like exactly the person to trust with my privacy.",
+    "time": 1523043133,
+    "type": "comment"
+  },
+  {
+    "by": "hsivonen",
+    "id": 16777262,
+    "parent": 16775686,
+    "text":
+      "&gt; They know which IP addresses you connect to. Many of those host large numbers of websites.<p>And SNI reveals which one of the Web sites you are accessing.",
+    "time": 1523047663,
+    "type": "comment"
+  },
+  {
+    "by": "rconti",
+    "id": 16775920,
+    "parent": 16775720,
+    "text":
+      "Interesting! Thanks for the informative reply. This feels like the kind of thing I probably read about at some point but subsequently forgot.",
+    "time": 1523039212,
+    "type": "comment"
+  },
+  {
+    "by": "rayiner",
+    "id": 16777789,
+    "kids": [16780258, 16778045],
+    "parent": 16777014,
+    "text":
+      "If you&#x27;re going to read the language non-sensically, why even bother to point to the text? Why not just make up whatever you want?<p>The numbering and the &quot;and&quot; clearly mean that one of the two endpoints must be &quot;Comcast and its agents.&quot;  The language is there to allow them to record customer service calls because otherwise in some states that would be a violation of wiretap consent laws.",
+    "time": 1523051527,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16777854,
+    "parent": 16775844,
+    "text":
+      "Comments were collected. No obligation existed to treat them as a vote. Very few contained new information to the FCC, so they weren&#x27;t valuable. The entire &quot;millions of comments&quot; nonsense is wholesale irrelevant, because the process doesn&#x27;t exist for the purpose of voting or conveying public opinion.<p>Comments are collected in case there are scenarios the regulatory agency didn&#x27;t consider. They considered them, and decided a way you didn&#x27;t like.",
+    "time": 1523052124,
+    "type": "comment"
+  },
+  {
+    "by": "politician",
+    "id": 16776581,
+    "kids": [16779751],
+    "parent": 16776467,
+    "text":
+      "You&#x27;re close.  There&#x27;s actually well understood technology for obfuscating the rate and frequency - the field for manipulating these variables is called &quot;traffic analysis&quot;.<p>One simple technique is to always transmit X packets&#x2F;sec where Y packets&#x2F;sec are real and the other packets are dummy packets (Y &lt; X).  If the channel is encrypted, it&#x27;s impossible to distinguish the dummy traffic from the real traffic, and if you&#x27;re over a VPN, it&#x27;s difficult to identify the destination.<p>A slightly more sophisticated approach is to vary X over time, to make it shaped like streaming video, for example, to obfuscate the fact that you&#x27;re using traffic analysis countermeasures.",
+    "time": 1523042974,
+    "type": "comment"
+  },
+  {
+    "deleted": true,
+    "id": 16777040,
+    "parent": 16776467,
+    "time": 1523046192,
+    "type": "comment"
+  },
+  {
+    "by": "paulie_a",
+    "id": 16780289,
+    "parent": 16776999,
+    "text": "If you can&#x27;t access Zillow, nothing of value was lost.",
+    "time": 1523099924,
+    "type": "comment"
+  },
+  {
+    "by": "troncjb",
+    "id": 16777759,
+    "kids": [16778236],
+    "parent": 16776999,
+    "text": "Same -- Netflix, craigslist as well",
+    "time": 1523051246,
+    "type": "comment"
+  },
+  {
+    "by": "komali2",
+    "id": 16776988,
+    "kids": [16778786],
+    "parent": 16776647,
+    "text":
+      "Why wouldn&#x27;t they be deleted? They were stuffed with bot complaints, FCC could remove any and say it was a bot.",
+    "time": 1523045810,
+    "type": "comment"
+  },
+  {
+    "by": "rmcpherson",
+    "id": 16776966,
+    "kids": [16777446],
+    "parent": 16776841,
+    "text":
+      "It is more of a problem if you want to run the VPN on your router upstream of your devices, which simplifies management and ensures all devices are protected from ISP snooping, including devices where I don&#x27;t control the software like a Chromecast.<p>I had to disable router-level vpn for exactly this reason, which is frustrating.<p>Amusingly enough, when I did have it on, my Chromecast showed weather data for the vpn endpoint so it&#x27;s using IP-based geolocation for weather. It could be smarter.",
+    "time": 1523045604,
+    "type": "comment"
+  },
+  {
+    "by": "411mrc",
+    "id": 16775927,
+    "kids": [16776329, 16776244],
+    "parent": 16775812,
+    "text":
+      "You can mitigate the speed issue by adding your own DNS local caches and then start blocking ads, trackers and malware sites and whomever you want (FB is added to the spyware list) using publicly available lists.  All of this speeds browsing considerably.<p>A personalized router is very powerful.",
+    "time": 1523039263,
+    "type": "comment"
+  },
+  {
+    "by": "anarchimedes",
+    "id": 16776490,
+    "parent": 16775812,
+    "text":
+      "I&#x27;m interested in the implementation of this, but do not have the technical background to begin. Would you have any go to resources for a beginner?",
+    "time": 1523042306,
+    "type": "comment"
+  },
+  {
+    "by": "woah",
+    "id": 16775854,
+    "kids": [16776310],
+    "parent": 16775812,
+    "text":
+      "Netflix and other video sites will be blocked from a lot of VPS providers. You may be better off going with a professional service that can keep their ips clean",
+    "time": 1523038895,
+    "type": "comment"
+  },
+  {
+    "by": "swsieber",
+    "id": 16779222,
+    "kids": [16779426],
+    "parent": 16778904,
+    "text":
+      "Not the U.S, that&#x27;s for sure.<p>But from what I&#x27;ve heard practically anywhere in Europe, and definitely in Japan.",
+    "time": 1523071435,
+    "type": "comment"
+  },
+  {
+    "by": "qaq",
+    "id": 16779307,
+    "parent": 16778904,
+    "text":
+      "If this is a serious question in Kiev I had a choice of 4 high speed providers at a cost of about 1&#x2F;10 what equivalent xfinity service is costing me here :)",
+    "time": 1523073783,
+    "type": "comment"
+  },
+  {
+    "by": "maljx",
+    "id": 16779502,
+    "parent": 16778904,
+    "text": "pretty much everywhere in europe.",
+    "time": 1523078676,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16779314,
+    "kids": [16780155],
+    "parent": 16778904,
+    "text":
+      "I have three major ISPs available where I live that can over 100+ meg service.",
+    "time": 1523073939,
+    "type": "comment"
+  },
+  {
+    "by": "blackoil",
+    "id": 16779535,
+    "parent": 16778904,
+    "text":
+      "In India, most metro have 2-3 broadband providers, and most of country have 4-6 mobile internet provider.",
+    "time": 1523079555,
+    "type": "comment"
+  },
+  {
+    "by": "mantas",
+    "id": 16779609,
+    "parent": 16778904,
+    "text":
+      "Your random eastern european country? My apartment complex is wired by at least 2 ISPs. If I don&#x27;t feel like using any of them, LTE-for-home boxes are available for reasonable price with reasonable data caps from a couple other ISPs.",
+    "time": 1523081489,
+    "type": "comment"
+  },
+  {
+    "by": "icebraining",
+    "id": 16780165,
+    "parent": 16780026,
+    "text":
+      "Nowadays, not really, plenty of people use them to avoid geo blocking.",
+    "time": 1523096512,
+    "type": "comment"
+  },
+  {
+    "by": "paulie_a",
+    "id": 16780191,
+    "parent": 16779386,
+    "text":
+      "I used both of those services and it is really amazing that the quality of ads from Google and Facebook 16+ years later is pretty much the same as NetZero&#x2F;juno",
+    "time": 1523097423,
+    "type": "comment"
+  },
+  {
+    "by": "chiefalchemist",
+    "id": 16780417,
+    "parent": 16780279,
+    "text":
+      "Motorola wasn&#x27;t the failure you think it was. That was, as I understand it, about patent acquisition. They got what they want and then dumped what they didn&#x27;t.<p>Per Thiel&#x27;s &quot;theory&quot; (as seen in Zero to One) most of Google&#x27;s &quot;failures&quot; are a cover for their search monopoly.",
+    "time": 1523103696,
+    "type": "comment"
+  },
+  {
+    "by": "troncjb",
+    "id": 16777923,
+    "parent": 16777517,
+    "text": "Good to know , thanks",
+    "time": 1523052632,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16775972,
+    "kids": [16779902],
+    "parent": 16775905,
+    "text":
+      "&gt; Opting out of ISP tracking costs money, when I&#x27;m already paying my ISP money.<p>All you will end up doing is giving someone else the same capability that your ISP has today. A VPN solves exactly nothing.<p>&gt; Not for lack of trying<p>Yes, that&#x27;s true they did try that. But then again, so did some registrars by hijacking domain names that were not in use. (And sometimes even when they were in use).<p>But end-to-end encryption took care of that in a pretty definitive manner.",
+    "time": 1523039543,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16775921,
+    "kids": [16777590],
+    "parent": 16775778,
+    "text":
+      "With calls and texts, certainly, but with Internet traffic? Bear in mind as well, ISPs tend to be monopolies in more rural areas, where the distance between people is higher to begin with. And most of your communications on the Internet will go to or from a server, which is likely not local.",
+    "time": 1523039227,
+    "type": "comment"
+  },
+  {
+    "by": "peterwwillis",
+    "id": 16781143,
+    "parent": 16780000,
+    "text":
+      "You can&#x27;t do reverse DNS for sites using SNI. Multiple hosts use the same IP.",
+    "time": 1523114878,
+    "type": "comment"
+  },
+  {
+    "by": "dylz",
+    "id": 16777117,
+    "parent": 16776631,
+    "text":
+      "<a href=\"http:&#x2F;&#x2F;partners.exelate.com&#x2F;media&#x2F;1&#x2F;_orig&#x2F;1426866843-8791.pdf\" rel=\"nofollow\">http:&#x2F;&#x2F;partners.exelate.com&#x2F;media&#x2F;1&#x2F;_orig&#x2F;1426866843-8791.pd...</a><p><a href=\"http:&#x2F;&#x2F;adage.com&#x2F;article&#x2F;digital&#x2F;facebook-partner-acxiom-epsilon-match-store-purchases-user-profiles&#x2F;239967&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;adage.com&#x2F;article&#x2F;digital&#x2F;facebook-partner-acxiom-eps...</a><p><a href=\"https:&#x2F;&#x2F;adexchanger.com&#x2F;ecommerce-2&#x2F;purchase-data-playbook-marketers&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;adexchanger.com&#x2F;ecommerce-2&#x2F;purchase-data-playbook-m...</a>",
+    "time": 1523046677,
+    "type": "comment"
+  },
+  {
+    "deleted": true,
+    "id": 16780258,
+    "parent": 16777789,
+    "time": 1523099322,
+    "type": "comment"
+  },
+  {
+    "by": "munk-a",
+    "id": 16778045,
+    "parent": 16777789,
+    "text":
+      "I think this language could allow for Comcast to monitor any traffic passing through their proxies?<p>I agree that it seems to be worded to imply that it&#x27;s just CS monitoring but I don&#x27;t believe that `transmitted between` would necessitate that the party be the intended endpoint.",
+    "time": 1523053646,
+    "type": "comment"
+  },
+  {
+    "by": "desertru",
+    "id": 16778236,
+    "kids": [16778523],
+    "parent": 16777759,
+    "text":
+      "FYI NordVPN works on Netflix. At least it does at the current time. Though I&#x27;ve been blocked on Amazon even just while shopping.",
+    "time": 1523055696,
+    "type": "comment"
+  },
+  {
+    "by": "ec109685",
+    "id": 16779751,
+    "parent": 16776581,
+    "text":
+      "If you are repeatedly going to sites A,B,C, then over time even if you are sending bogus packets, the sites you do go to will rise to the top.<p>It’s similar to differential privacy where even with a bunch of bogus data patterns in aggregate can be determined.",
+    "time": 1523085081,
+    "type": "comment"
+  },
+  {
+    "by": "Bluestrike2",
+    "id": 16778786,
+    "parent": 16776988,
+    "text":
+      "Federal record-keeping rules are pretty stringent. Generally speaking, you can&#x27;t delete stuff. Especially important records. And public comments are a required part of federal rulemaking procedures--see 5 U.S. Code § 553(c) [0]--so they&#x27;d definitely fall into the &quot;important&quot; category.<p>In fact, the FCC&#x27;s response to the bot activity was to point out that they aren&#x27;t permitted to delete the comments, though a former FCC special counsel was quoted as suggesting that the FCC &quot;might have an obligation under the Administrative Procedure Act to remove fake comments from its consideration.&quot;[1] But &quot;removing fake comments from its consideration&quot; isn&#x27;t the same as actually deleting them, so I&#x27;d imagine that just means labeling them as &quot;likely fake&quot; and ignoring them in their deliberations. The same would apply to official FCC complaints. The FCC might ignore them, but they can&#x27;t outright delete them without violating the law.<p>0. <a href=\"https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;5&#x2F;553\" rel=\"nofollow\">https:&#x2F;&#x2F;www.law.cornell.edu&#x2F;uscode&#x2F;text&#x2F;5&#x2F;553</a><p>1. <a href=\"https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;fccs-broken-comments-system-could-help-doom-net-neutrality&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;fccs-broken-comments-system-coul...</a>",
+    "time": 1523062275,
+    "type": "comment"
+  },
+  {
+    "by": "ktta",
+    "id": 16776329,
+    "kids": [16778444, 16776372],
+    "parent": 16775927,
+    "text":
+      "Openwrt by default caches using dnsmasq, but the blocklist is a good idea. The problem is, even the blocklist is sometimes too big for the tiny flashes of some routers.",
+    "time": 1523041414,
+    "type": "comment"
+  },
+  {
+    "by": "Diederich",
+    "id": 16776244,
+    "kids": [16776293],
+    "parent": 16775927,
+    "text":
+      "&gt; your own DNS local caches<p>Doesn&#x27;t that mean your ISP will now see what domains you are looking up?",
+    "time": 1523041007,
+    "type": "comment"
+  },
+  {
+    "by": "ktta",
+    "id": 16776310,
+    "kids": [16776496],
+    "parent": 16775854,
+    "text":
+      "True, but it can be mitigated by setting the routing table for Netflix IPs to avoid the tunnel. There&#x27;s no standard way this can be done, but it&#x27;s not impossible.",
+    "time": 1523041303,
+    "type": "comment"
+  },
+  {
+    "by": "troncjb",
+    "id": 16777446,
+    "parent": 16776966,
+    "text":
+      "&gt; my Chromecast showed weather data for the vpn endpoint<p>That is pretty awesome. I feel your pain and that is why I haven&#x27;t gone and flashed my router even though I finally bought one that will let me.",
+    "time": 1523048823,
+    "type": "comment"
+  },
+  {
+    "by": "icebraining",
+    "id": 16780155,
+    "parent": 16779314,
+    "text":
+      "Four here (Portuguese city near Lisbon) offering at least 250mbps.",
+    "time": 1523096183,
+    "type": "comment"
+  },
+  {
+    "by": "schoen",
+    "id": 16777590,
+    "kids": [16777668],
+    "parent": 16775921,
+    "text":
+      "In this case, the ISP can correlate the timing of the communications activity in order to confirm that it involves two particular customers.",
+    "time": 1523049892,
+    "type": "comment"
+  },
+  {
+    "by": "jogjayr",
+    "id": 16779902,
+    "parent": 16775972,
+    "text":
+      "&gt; A VPN solves exactly nothing.<p>Maybe, maybe not. US ISPs operate as virtual monopolies in many markets - even if an ISP was tracking and monetizing online activity most customers don&#x27;t have any recourse.<p>In contrast, the VPN market is extremely competitive; there are dozens, maybe hundreds of providers. Privacy is one of the differentiating factors between them. It would be extremely risky for a VPN provider to claim &quot;no logs&quot; but actually store logs - a single data breach, rogue employee, or whistleblower could end their business.<p>I&#x27;m not claiming VPNs are a desirable solution. The desirable solution is that ISPs don&#x27;t track or otherwise monetize their customers&#x27; online activity.",
+    "time": 1523089077,
+    "type": "comment"
+  },
+  {
+    "by": "ekianjo",
+    "id": 16779426,
+    "kids": [16781267],
+    "parent": 16779222,
+    "text":
+      "yeah in Japan you have major net providers and there is even a difference between the network you rent and the ISP. For example you can be on a NTT fiber line but use a different ISP on that line.",
+    "time": 1523076729,
+    "type": "comment"
+  },
+  {
+    "by": "411mrc",
+    "id": 16778523,
+    "parent": 16778236,
+    "text":
+      "Why would Amazon care?  I think I&#x27;ve went to Amazon over Tor and had no problem.  I never tried to log in, but they let me browse just fine.",
+    "time": 1523058847,
+    "type": "comment"
+  },
+  {
+    "by": "411mrc",
+    "id": 16778444,
+    "kids": [16779342],
+    "parent": 16776329,
+    "text":
+      "As another poster said, go with a mini-pc like Qotom.  Uses little power, configure however you want (memory, SSD).  Most web pages load instantly, and it handles a massive blocklist (Bind9).  I&#x27;m slowly adding a list of always on packages like sync tools.  Also, you can use an AP instead of router attached wifi.  Move the Power-over Ethernet AP where you want.  Ubiquiti Unifi is far better coverage than my previous consumer grade wifi. Do it all in your favorite Linux flavor.",
+    "time": 1523057736,
+    "type": "comment"
+  },
+  {
+    "by": "danharaj",
+    "id": 16776372,
+    "parent": 16776329,
+    "text":
+      "I use a Qotom mini pc as a router. I configure it with NixOS. It&#x27;s amazing.",
+    "time": 1523041663,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16777668,
+    "kids": [16777683],
+    "parent": 16777590,
+    "text": "Give me an example, what kind of communication?",
+    "time": 1523050625,
+    "type": "comment"
+  },
+  {
+    "by": "rbritton",
+    "id": 16776496,
+    "parent": 16776310,
+    "text":
+      "I did this for a while, and it was a decent headache to maintain. I had pfSense running at the Comcast edge and configured it to route all but specifically whitelisted traffic through a VPN I controlled. Speed was slower than max but acceptable due to choosing a VPS provider close to me, but the maintenance on the whitelist was cumbersome.",
+    "time": 1523042364,
+    "type": "comment"
+  },
+  {
+    "by": "ktta",
+    "id": 16776293,
+    "kids": [16776533, 16777321],
+    "parent": 16776244,
+    "text":
+      "Not if you use DNS-over-HTTPS with cloudflare or google.<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;aarond10&#x2F;https_dns_proxy\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;aarond10&#x2F;https_dns_proxy</a>",
+    "time": 1523041222,
+    "type": "comment"
+  },
+  {
+    "by": "leetcrew",
+    "id": 16781267,
+    "kids": [16781951],
+    "parent": 16779426,
+    "text":
+      "&gt; For example you can be on a NTT fiber line but use a different ISP on that line<p>as an american living in a major city, this exceeds my wildest dreams of internet service.",
+    "time": 1523116506,
+    "type": "comment"
+  },
+  {
+    "by": "ktta",
+    "id": 16779342,
+    "kids": [16781583],
+    "parent": 16778444,
+    "text":
+      "The average user doesn&#x27;t want to buy more hardware, and flashing an existing router can be done in an evening.<p>Also, why Bind9? I don&#x27;t see what&#x27;s wrong with dnsmasq, and changing hosts file for blocklist. Also, I often advise against network wide blocklists unless you&#x27;re the only one using the network, since subtle things break.<p>Here&#x27;s what I do: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=14780738\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=14780738</a><p>The only thing different is that I use wireguard and dnsmasq now.",
+    "time": 1523074821,
+    "type": "comment"
+  },
+  {
+    "by": "schoen",
+    "id": 16777683,
+    "kids": [16777735],
+    "parent": 16777668,
+    "text":
+      "Like a Skype call. If user A calls user B (of the same regional ISP), the communications don&#x27;t go directly from A to B (rather they go from A to Skype and Skype to B, and vice versa), but the timing and volume of the traffic flows are extremely well correlated.",
+    "time": 1523050768,
+    "type": "comment"
+  },
+  {
+    "by": "cwingrav",
+    "id": 16776533,
+    "parent": 16776293,
+    "text":
+      "Just clarifying your comment for others: Your ISP would still see the IPs of the sites your packets visit unless you are using an encrypted VPN connection. The DNS-over-HTTPS is a great addition to a VPN.<p>(the VPN comment was several levels up so some might miss it)",
+    "time": 1523042640,
+    "type": "comment"
+  },
+  {
+    "by": "Diederich",
+    "id": 16777321,
+    "parent": 16776293,
+    "text": "Righto!",
+    "time": 1523047964,
+    "type": "comment"
+  },
+  {
+    "by": "oarsinsync",
+    "id": 16781951,
+    "parent": 16781267,
+    "text":
+      "It&#x27;s the difference between a regulated pro-consumer free market, and a lobbyist controlled market presenting a duopoly as a free market.<p>It&#x27;s one of the negative consequences of mainstream media &#x2F; political free market rhetoric considering regulation harmful.",
+    "time": 1523125143,
+    "type": "comment"
+  },
+  {
+    "by": "411mrc",
+    "id": 16781583,
+    "parent": 16779342,
+    "text":
+      "I find having one piece of low-power hardware that is always on a handy tool. A homeserver+router, basically. I can decloud a lot of things.  Having a beefier piece of hardware makes it a non-issue.  I try to run things in Docker for modularity.  Total hardware cost is competitive with a high-end router, but I think I get more.<p>Bind9 seems to be better for blocking.  RPZ is made for it.  I don&#x27;t think dnsmasq supports RPZ though projects like Pi-Hole use dnsmasq.  I&#x27;m not positive, but I think RPZ is more flexible.  Bind9 seems to do anything you like.  I may want to resolve DNS myself and not just forward.<p>I&#x27;m starting to look into configuring Bind9 to have different blocking per user using &quot;views.&quot;  Some want Facebook, some don&#x27;t, so I can block accordingly.  I&#x27;m not sure you can do that in dnsmasq.  I did discover subtle things break, like you can&#x27;t block Facebook and still access Instagram, thus the &quot;views&quot; approach.  I don&#x27;t want to change hosts file on every device, especially mobiles, and can even provide some protection for guests this way.  I might do a captive page for a blocked domain and let people bypass in their view if they like, then I can have a &quot;block-first&quot; approach.<p>I do like network-wide blocking for the malware lists - if anyone acquires malware, it can&#x27;t phone home (if it&#x27;s on the list) and I can detect via logs.  DNS as firewall seems to be a trend.  I&#x27;m looking into blocking IPs via iptables as well using public lists.  Maybe I&#x27;ll even setup Snort or Bro.  The possibilities are endless.",
+    "time": 1523120619,
+    "type": "comment"
+  },
+  {
+    "by": "ocdtrekkie",
+    "id": 16777735,
+    "kids": [16778006],
+    "parent": 16777683,
+    "text":
+      "Alright, I can grant that is true, although if you assume an ISP like Comcast has thousands (or more) simultaneous Skype calls, and they come and go often enough that it&#x27;s likely you&#x27;ll be dealing with many starting at close to the same time... there&#x27;s a lot to track there. Also, bear in mind, you have to weed this out from all the unidirectional calls: Comcast to [other ISP] and [other ISP to Comcast] calls, so you can&#x27;t even make one-to-one matches reliably.<p>And of course, when you compare to the tech industry alternative: Microsoft knows who is talking to who straight up (and on a global scale), whereas the ISP can only guess. And while the ISP&#x27;s understanding of who is calling who ends at the household, Microsoft knows which user accounts made the call, which is much more likely to correlate to individual people.",
+    "time": 1523051048,
+    "type": "comment"
+  },
+  {
+    "by": "jacquesm",
+    "id": 16778006,
+    "parent": 16777735,
+    "text": "MS has access to the payload as well.",
+    "time": 1523053138,
+    "type": "comment"
+  }
+]
