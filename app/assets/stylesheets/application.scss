@@ -29,7 +29,32 @@ h3 {
   font-size: 1.5rem;
   margin-right: 1rem;
   padding: 0.1rem 0.4rem;
+  transition: font-size 0.3s;
+}
+
+.navbar {
+  background-color: #ff6600;
+  transition: height 0.3s;
+
+  &.expand {
+    height: 100px;
+  }
+
+  &.compact {
+    height: 60px;
+    .logo {
+      font-size: 1rem;
+    }
+    .navbar-brand {
+      font-size: 1rem;
+      transition: font-size 0.3s;
+    }
+  }
 }
 .container {
   margin-top: 1rem;
+}
+.sentinel {
+  height: 1px;
+  width: 100%;
 }

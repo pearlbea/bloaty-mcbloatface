@@ -1,5 +1,6 @@
 <%= render 'shared/header' %>
 <div class="container">
+  <span class="sentinel"></span>
   <h1>Top Stories</h1>
   <ul class="list-group">
   <% @stories.each do |story| %>
@@ -14,7 +15,6 @@
         <span class="badge badge-primary badge-pill story__badge"><%= story.comment_count %></span>
       </div>
     <% end %>
-
   <% end %>
   <ul>
 </div>
