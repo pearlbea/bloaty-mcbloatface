@@ -14,4 +14,22 @@
  *= require_self
  */
 @import "bootstrap";
-@import "todos";
+@import url("https://fonts.googleapis.com/css?family=Signika");
+body {
+  font-family: "Roboto", sans-serif;
+}
+h1,
+h2,
+h3 {
+  font-family: "Rokkitt", serif;
+}
+.logo {
+  border: 1px solid #fff;
+  font-family: "Signika", sans-serif;
+  font-size: 1.5rem;
+  margin-right: 1rem;
+  padding: 0.1rem 0.4rem;
+}
+.container {
+  margin-top: 1rem;
+}

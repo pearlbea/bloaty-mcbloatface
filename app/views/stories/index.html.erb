@@ -1,0 +1,20 @@
+<%= render 'shared/header' %>
+<div class="container">
+  <h1>Top Stories</h1>
+  <ul class="list-group">
+  <% @stories.each do |story| %>
+    <%= link_to story, class: 'list-group-item list-group-item-action' do %>
+      <div class="d-flex justify-content-between align-items-center">
+        <div>
+          <span class="story__date"><%= time_ago_in_words(story.time) %> ago | <%= story.score %> points</span>
+          <span class="story__title"><%= story.title %> <span class="text-secondary story__url">(<%= host_name(story.url) %>)</span></span>
+          <span class="story__by"><%= story.by %></span>
+          <span class="story__points"></span>
+        </div>
+        <span class="badge badge-primary badge-pill story__badge"><%= story.comment_count %></span>
+      </div>
+    <% end %>
+
+  <% end %>
+  <ul>
+</div>
