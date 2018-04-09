@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180409210718) do
+ActiveRecord::Schema.define(version: 20180409213755) do
 
   create_table "comments", force: :cascade do |t|
     t.integer "story_id"
@@ -27,8 +27,6 @@ ActiveRecord::Schema.define(version: 20180409210718) do
   end
 
   create_table "stories", force: :cascade do |t|
-    t.string "by"
-    t.datetime "time"
     t.string "url"
     t.string "title"
     t.text "text"
@@ -36,6 +34,8 @@ ActiveRecord::Schema.define(version: 20180409210718) do
     t.datetime "updated_at", null: false
     t.integer "comment_count"
     t.integer "score"
+    t.integer "user_id"
+    t.index ["user_id"], name: "index_stories_on_user_id"
   end
 
   create_table "todos", force: :cascade do |t|
