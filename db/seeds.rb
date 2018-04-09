@@ -33,13 +33,16 @@ def create_user(user)
   end
 end
 
+puts 'Seeding users'
+
 data['users'].each do |user|
   create_user(user)
 end
 
-data['storiesWithComments'][0..1].each do |story_with_comments|
+data['storiesWithComments'].each do |story_with_comments|
+  puts 'Seeding story'
   story = create_story(story_with_comments['story'])
-  story_with_comments['comments'].each do |comment|
+  story_with_comments['comments'].compact.each do |comment|
     create_comment(comment, story)
   end
 end
