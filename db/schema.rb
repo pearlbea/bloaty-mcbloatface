@@ -16,8 +16,6 @@ ActiveRecord::Schema.define(version: 20180409214111) do
     t.integer "story_id"
     t.integer "comment_id"
     t.text "text"
-    t.string "url"
-    t.string "title"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.integer "user_id"
