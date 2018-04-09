@@ -5,45 +5,25 @@ data = JSON.parse(File.read('db/hn.json'));
 #   storiesWithComments: StoryWithComments[]
 # }
 
-# data['storiesWithComments']
-#
+def create_comment(comment, story)
+  Comment.find_or_create_by(id: comment['id']) do |c|
+    c.story = story
+    c.user = User.find_by(username: comment['by'])
+    c.comment = Comment.find(comment['parent']) rescue nil
+    c.text = comment['text']
+    c.created_at = Time.at(comment['time'])
+  end
+end
 
-# def create_comment(comment)
-#   Comment.create(
-#     id: comment['id'],user.
-#     by: comment['by'],
-#     parent_id: comment['parent'],
-#     title: comment['title'],
-#     time: comment['time'],
-#     text: comment['text'],
-#     url: comment['url']
-#   )
-# end
-#
-# def create_comments(comments)
-#   comments.each do |comment|
-#     create_comment(comment)
-#   end
-# end
-#
-# stories.each do |story|
-#   Story.create(
-#     id: story['id'],
-#     by: story['by'],
-#     time: Time.at(story['time']),
-#     title: story['title'],
-#     url: story['url'],
-#     comment_count: story['descendants'],
-#     score: story['score']
-#   )
-# end
-
-# def create_story(story)
-#   Story.find_or_create_by(id: story['id']) do |s|
-#     s.by = story['by']
-#
-#   end
-# end
+def create_story(story)
+  Story.find_or_create_by(id: story['id']) do |s|
+    s.user = User.find_by(username: story['by'])
+    s.title = story['title']
+    s.url = story['url']
+    s.score = story['score']
+    s.created_at = Time.at(story['time'])
+  end
+end
 
 def create_user(user)
   User.find_or_create_by(username: user['id']) do |u|
@@ -57,6 +37,9 @@ data['users'].each do |user|
   create_user(user)
 end
 
-# data['storiesWithComments'].each do |story|
-#   create_story(story)
-# end
+data['storiesWithComments'][0..1].each do |story_with_comments|
+  story = create_story(story_with_comments['story'])
+  story_with_comments['comments'].each do |comment|
+    create_comment(comment, story)
+  end
+end
