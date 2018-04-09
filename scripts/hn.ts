@@ -16,6 +16,7 @@ interface StoriesWithCommentsAndUsers {
 }
 
 interface User {
+  about?: string;
   created: number;
   id: string;
   karma: number;
