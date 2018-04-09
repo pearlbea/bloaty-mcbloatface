@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180409143727) do
+ActiveRecord::Schema.define(version: 20180409210718) do
 
   create_table "comments", force: :cascade do |t|
     t.integer "story_id"
@@ -44,9 +44,8 @@ ActiveRecord::Schema.define(version: 20180409143727) do
   end
 
   create_table "users", force: :cascade do |t|
-    t.string "by"
-    t.datetime "created"
-    t.integer "karma"
+    t.string "username", null: false
+    t.integer "karma", default: 0, null: false
     t.text "about"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
