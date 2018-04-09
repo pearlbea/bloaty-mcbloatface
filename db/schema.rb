@@ -10,20 +10,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180409213755) do
+ActiveRecord::Schema.define(version: 20180409214111) do
 
   create_table "comments", force: :cascade do |t|
     t.integer "story_id"
     t.integer "comment_id"
-    t.string "by"
-    t.datetime "time"
     t.text "text"
     t.string "url"
     t.string "title"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "user_id"
     t.index ["comment_id"], name: "index_comments_on_comment_id"
     t.index ["story_id"], name: "index_comments_on_story_id"
+    t.index ["user_id"], name: "index_comments_on_user_id"
   end
 
   create_table "stories", force: :cascade do |t|
