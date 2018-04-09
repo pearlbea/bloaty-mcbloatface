@@ -1,5 +1,9 @@
 <%= render 'shared/header' %>
 <div class="container">
   <h1>Story</h1>
+  <img src="" class="img-fluid" alt="">
   <div class="story__title"><%= @story.title %></div>
+  <div class="story__by"><%= @story.by %></div>
+  <div class="story__url"><%= link_to @story.url %></div>
+
 </div>

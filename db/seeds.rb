@@ -1,23 +1,21 @@
+stories = JSON.parse(File.read('db/stories.json'));
+# comments = JSON.parse(File.read('db/comments.json'));
 
-stories = JSON.parse(File.read('db/stories.json'))
-# comments = JSON.parse(File.read('db/comments.json'))
-
-def create_comment(comment, story_id)
+def create_comment(comment)
   Comment.create(
     id: comment['id'],
     by: comment['by'],
-    story_id: story_id,
+    parent_id: comment['parent'],
     title: comment['title'],
     time: comment['time'],
     text: comment['text'],
-    url: comment['url'],
-    comment_id: comment['parent']
+    url: comment['url']
   )
 end
 
-def create_comments(comments, story_id)
+def create_comments(comments)
   comments.each do |comment|
-    create_comment(comment, story_id)
+    create_comment(comment)
   end
 end
 
@@ -31,6 +29,6 @@ stories.each do |story|
     comment_count: story['descendants'],
     score: story['score']
   )
-
-  # create_comments(comments, story['id'])
 end
+
+# create_comments(comments);
