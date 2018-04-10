@@ -7,11 +7,27 @@
     "compile-scripts": "npx tsc --project scripts/tsconfig.json --listEmittedFiles"
   },
   "dependencies": {
+    "@angular/animations": "^5.2.9",
+    "@angular/cdk": "^5.2.4",
+    "@angular/cli": "^1.7.4",
+    "@angular/common": "^5.2.9",
+    "@angular/compiler": "^5.2.9",
+    "@angular/core": "^5.2.9",
+    "@angular/forms": "^5.2.9",
+    "@angular/http": "^5.2.9",
+    "@angular/material": "^5.2.4",
+    "@angular/platform-browser": "^5.2.9",
+    "@angular/platform-browser-dynamic": "^5.2.9",
+    "@angular/router": "^5.2.9",
     "@rails/webpacker": "^3.4.1",
+    "core-js": "^2.5.5",
+    "html-loader": "^0.5.5",
     "mdbootstrap": "^4.5.0",
     "moment": "^2.22.0",
+    "rxjs": "^5.5.8",
     "ts-loader": "3.5.0",
-    "typescript": "^2.8.1"
+    "typescript": "^2.8.1",
+    "zone.js": "^0.8.26"
   },
   "devDependencies": {
     "@types/node": "^9.6.2",

@@ -1,0 +1,11 @@
+<mat-card class="example-card" *ngFor="let story of stories$ | async">
+  <mat-card-header>
+    <mat-card-title><a href="/stories/{{ story.id }}">{{ story.title }}</a></mat-card-title>
+    <mat-card-subtitle>
+      {{ story.score }} points
+      <span *ngIf="user$ | async as user">by {{user.username}}</span>
+      {{ relativeTime(story.created_at) }} ago
+      {{ story.comments_count }} comments
+    </mat-card-subtitle>
+  </mat-card-header>
+</mat-card>

@@ -1,0 +1,15 @@
+<mat-card class="example-card" *ngFor="let user of users">
+  <mat-card-header>
+    <div mat-card-avatar [style.backgroundImage]="avatarStyle(user)" [style.background-size]="'cover'"></div>
+    <mat-card-title>{{ user.username }}</mat-card-title>
+    <mat-card-subtitle [attr.title]="user.created_at">Joined {{ relativeTime(user.created_at) }}</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <p>
+      {{ user.about }}
+    </p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button [routerLink]="['/users', user.id]" mat-button>View</button>
+  </mat-card-actions>
+</mat-card>
