@@ -1,6 +1,5 @@
 <div class="comment">
   <div>
-    id: <%= comment.id %>, parent: <%= comment.comment_id %>, # children <%= comment.comments.count %>
     <div class="small"><%= "#{comment.user.username} @ #{time_ago_in_words(comment.created_at)} ago" %></div>
     <div class="comment"><%= comment.text.html_safe %></div>
   </div>

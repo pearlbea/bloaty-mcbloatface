@@ -1,14 +1,14 @@
 <%= render 'shared/header' %>
 <div class="container">
-    <img src="" class="img-fluid" alt="">
-  <h1><%= @story.title %></h1>
 
-  <div class="story__url"><%= link_to @story.url %></div>
-  <div class="story__title"></div>
-  <div class="story__by"><%= @story.user.username %></div>
+  <div class="card mb-3">
+    <div class="card-body">
+      <h1 class="card-title"><%= @story.title %></h1>
+      <p class="card-text"><%= @story.user.username %> | <%= time_ago_in_words(@story.created_at) %> ago | <%= @story.score %> points</p>
+      <p class="card-text"><small class="text-muted"><%= link_to @story.url %></small></p>
+    </div>
+  </div>
 
-  <h3>Comments (<%= @story.comments.count %>)</h3>
-
+  <p>Comments (<%= @story.comments.count %>)</p>
   <%= render partial: "story_comments", locals: { comments: display_comments(@story.comments) } %>
-
 </div>
