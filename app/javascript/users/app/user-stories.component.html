@@ -9,3 +9,5 @@
     </mat-card-subtitle>
   </mat-card-header>
 </mat-card>
+
+<div *ngIf='(stories$ | async)?.length === 0'>No stories</div>
