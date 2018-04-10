@@ -1,8 +1,10 @@
 export interface User {
   about?: string;
+  comments_count: number
   created_at: string;
   id: number;
   karma: number;
+  stories_count: number;
   updated_at: string;
   username: string;
 }

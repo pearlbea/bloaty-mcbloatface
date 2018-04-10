@@ -1,4 +1,4 @@
 class Story < ApplicationRecord
+  belongs_to :user, counter_cache: true
   has_many :comments
-  belongs_to :user
 end
