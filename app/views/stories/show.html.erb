@@ -4,7 +4,7 @@
   <div class="card mb-3">
     <div class="card-body">
       <h1 class="card-title"><%= @story.title %></h1>
-      <p class="card-text"><%= @story.user.username %> | <%= time_ago_in_words(@story.created_at) %> ago | <%= @story.score %> points</p>
+      <p class="card-text"><%= link_to @story.user.username, @story.user %> | <%= time_ago_in_words(@story.created_at) %> ago | <%= @story.score %> points</p>
       <p class="card-text"><small class="text-muted"><%= link_to @story.url %></small></p>
     </div>
   </div>

@@ -1,6 +1,6 @@
 <div class="comment">
   <div>
-    <div class="small"><%= "#{comment.user.username} @ #{time_ago_in_words(comment.created_at)} ago" %></div>
+    <div class="small"><%= link_to comment.user.username, comment.user %><%= " @ #{time_ago_in_words(comment.created_at)} ago" %></div>
     <div class="comment"><%= comment.text.html_safe %></div>
   </div>
   <ul class="list-group">
