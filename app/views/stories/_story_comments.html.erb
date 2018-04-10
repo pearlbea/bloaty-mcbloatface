@@ -1,5 +1,4 @@
 <ul class="list-group top top--collapse">
-  <%= "top level #{comments.count}" %>
   <% comments['top'].each do |comment| %>
     <li class="list-group-item d-flex justify-content-start align-items-center">
         <%= render partial: "comment", locals: { comment: comment } %>
