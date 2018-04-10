@@ -2,6 +2,9 @@
 <div class="container">
 
   <div class="card mb-3">
+    <div class="image-container">
+      <img class="card-img-top" src="https://source.unsplash.com/random?cat,dog,pig,horse,animal" alt="random animal image">
+    </div>
     <div class="card-body">
       <h1 class="card-title"><%= @story.title %></h1>
       <p class="card-text"><%= @story.user.username %> | <%= time_ago_in_words(@story.created_at) %> ago | <%= @story.score %> points</p>

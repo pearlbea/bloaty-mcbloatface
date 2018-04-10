@@ -4,8 +4,7 @@
   "scripts": {
     "preget-hn-data": "npm run compile-scripts",
     "get-hn-data": "node scripts/hn.js",
-    "compile-scripts":
-      "npx tsc --project scripts/tsconfig.json --listEmittedFiles",
+    "compile-scripts": "npx tsc --project scripts/tsconfig.json --listEmittedFiles",
     "dev": "./bin/webpack-dev-server"
   },
   "dependencies": {
@@ -13,7 +12,8 @@
     "mdbootstrap": "^4.5.0",
     "moment": "^2.22.0",
     "ts-loader": "3.5.0",
-    "typescript": "^2.8.1"
+    "typescript": "^2.8.1",
+    "unsplash-js": "^4.8.0"
   },
   "devDependencies": {
     "@types/node": "^9.6.2",
