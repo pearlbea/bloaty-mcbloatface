@@ -4,7 +4,9 @@
   "scripts": {
     "preget-hn-data": "npm run compile-scripts",
     "get-hn-data": "node scripts/hn.js",
-    "compile-scripts": "npx tsc --project scripts/tsconfig.json --listEmittedFiles"
+    "compile-scripts":
+      "npx tsc --project scripts/tsconfig.json --listEmittedFiles",
+    "dev": "./bin/webpack-dev-server"
   },
   "dependencies": {
     "@angular/animations": "^5.2.9",
