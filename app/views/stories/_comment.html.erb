@@ -1,5 +1,14 @@
-
-  <%= comment.text.html_safe %>
-  <% comment.comments.each do |c| %>
-  <%= render partial: "comment_tree", locals: { comments: c.comments } %>
-  <% end %>
+<div class="comment">
+  <div>
+    id: <%= comment.id %>, parent: <%= comment.comment_id %>, # children <%= comment.comments.count %>
+    <div class="small"><%= "#{comment.user.username} @ #{time_ago_in_words(comment.created_at)} ago" %></div>
+    <div class="comment"><%= comment.text.html_safe %></div>
+  </div>
+  <ul class="list-group">
+    <% comment.comments.each do |comment| %>
+    <li class="list-group-item">
+        <%= render partial: "comment", locals: { comment: comment } %>
+      </li>
+    <% end %>
+  </ul>
+</div>

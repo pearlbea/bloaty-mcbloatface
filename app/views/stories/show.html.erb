@@ -7,7 +7,7 @@
   <div class="story__title"></div>
   <div class="story__by"><%= @story.user.username %></div>
 
-  <div><%= @story.comments.count %></div>
+  <h3>Comments (<%= @story.comments.count %>)</h3>
 
   <%= render partial: "story_comments", locals: { comments: display_comments(@story.comments) } %>
 
