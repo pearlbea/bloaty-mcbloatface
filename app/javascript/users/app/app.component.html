@@ -1,11 +1,11 @@
-<mat-toolbar color="primary">
-  <span><a href="/">Bloaty McBloatface</a></span>
-</mat-toolbar>
+<div class="mat-typography">
+  <mat-toolbar color="primary">
+    <span [routerLink]="['/users']">Users</span>
+  </mat-toolbar>
 
-<div id="users">
-  <h1 [routerLink]="['/users']">Users</h1>
-
-  <div id="main">
-    <router-outlet></router-outlet>
+  <div id="users">
+    <div id="main">
+      <router-outlet></router-outlet>
+    </div>
   </div>
 </div>

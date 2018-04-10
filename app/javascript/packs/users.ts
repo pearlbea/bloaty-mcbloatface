@@ -4,5 +4,4 @@
 //
 // <%= javascript_pack_tag 'hello_angular' %>
 
-// require('../hello_angular')
 import '../users';

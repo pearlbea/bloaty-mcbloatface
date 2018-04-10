@@ -1,0 +1,12 @@
+<% content_for :content do %>
+  <base href="/">
+
+  <%= javascript_pack_tag 'users' %>
+  <%= stylesheet_pack_tag 'users' %>
+
+  <%= render 'shared/header' %>
+
+  <app-users>Loading...</app-users>
+<% end %>
+
+<%= render template: 'layouts/application' %>

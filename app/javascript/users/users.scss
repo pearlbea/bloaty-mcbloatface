@@ -1,0 +1,19 @@
+mat-toolbar {
+  span {
+    cursor: pointer;
+  }
+}
+
+#users {
+  margin: 0 auto;
+  max-width: 1024px;
+
+  #main {
+    margin: 48px;
+  }
+
+  mat-card {
+    margin: 24px;
+    word-wrap: break-word;
+  }
+}

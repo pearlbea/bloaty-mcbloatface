@@ -6,7 +6,7 @@ import { ActivatedRoute, ParamMap, Router } from '@angular/router';
 import { Http, Response } from '@angular/http';
 
 import { Component } from '@angular/core';
-import { DomSanitizer } from '@angular/platform-browser';
+import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { Observable } from 'rxjs';
 import { User } from '../../interfaces';
 import { UserService } from './user.service';
@@ -35,6 +35,10 @@ export class UserDetailsComponent {
   public avatarStyle(user: User) {
     const style = `url('https://robohash.org/${user.id}`;
     return this.sanitizer.bypassSecurityTrustStyle(style);
+  }
+
+  public html(about: string): SafeHtml {
+    return this.sanitizer.bypassSecurityTrustHtml(about);
   }
 
   private getUser(params: ParamMap): Observable<User> {
