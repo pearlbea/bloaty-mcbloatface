@@ -1,9 +1,14 @@
 <%= render 'shared/header' %>
 <div class="container">
-  <h1>Story</h1>
-  <img src="" class="img-fluid" alt="">
-  <div class="story__title"><%= @story.title %></div>
-  <div class="story__by"><%= @story.by %></div>
+    <img src="" class="img-fluid" alt="">
+  <h1><%= @story.title %></h1>
+
   <div class="story__url"><%= link_to @story.url %></div>
+  <div class="story__title"></div>
+  <div class="story__by"><%= @story.user.username %></div>
+
+  <div><%= @story.comments.count %></div>
+
+  <%= render partial: "story_comments", locals: { comments: display_comments(@story.comments) } %>
 
 </div>

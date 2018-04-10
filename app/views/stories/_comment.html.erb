@@ -1,0 +1,5 @@
+
+  <%= comment.text.html_safe %>
+  <% comment.comments.each do |c| %>
+  <%= render partial: "comment_tree", locals: { comments: c.comments } %>
+  <% end %>

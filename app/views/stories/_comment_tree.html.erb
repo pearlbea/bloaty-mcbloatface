@@ -1,0 +1,7 @@
+<ul class="list-group">
+  <% comments.each do |comment| %>
+    <li class="list-group-item">
+      <%= render partial: "comment", locals: { comment: comment } %>
+    </li>
+  <% end %>
+</ul>
