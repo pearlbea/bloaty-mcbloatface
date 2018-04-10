@@ -1,4 +1,4 @@
-import { MatButtonModule, MatCardModule, MatToolbarModule } from '@angular/material';
+import { MatButtonModule, MatCardModule, MatListModule, MatToolbarModule } from '@angular/material';
 import { RouterModule, Routes } from '@angular/router';
 
 import { AppComponent } from './app.component';
@@ -6,10 +6,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
+import { StoryService } from './story.service';
 import { UserDetailsComponent } from './user-details.component';
 import { UserListComponent } from './user-list.component';
 import { UserService } from './user.service';
-import { StoryService } from './story.service';
 import { UserStoriesComponent } from './user-stories.component';
 
 const appRoutes: Routes = [
@@ -32,6 +32,7 @@ const appRoutes: Routes = [
     HttpClientModule,
     MatButtonModule,
     MatCardModule,
+    MatListModule,
     MatToolbarModule,
   ],
   providers: [

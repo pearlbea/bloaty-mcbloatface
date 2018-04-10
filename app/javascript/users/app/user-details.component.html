@@ -8,6 +8,10 @@
     </mat-card-header>
     <mat-card-content>
       <p [innerHTML]="html(user.about)"></p>
+      <mat-list role="list">
+        <mat-list-item role="listitem">Submissions: {{ user.stories_count }}</mat-list-item>
+        <mat-list-item role="listitem">Coments: {{ user.comments_count }}</mat-list-item>
+      </mat-list>
     </mat-card-content>
     <mat-card-actions>
       <button [routerLink]="['/users', user.id, 'stories']" mat-button>View stories</button>
