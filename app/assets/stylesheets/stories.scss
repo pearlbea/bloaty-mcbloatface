@@ -15,3 +15,8 @@
 .comment .small {
   margin-bottom: 0.5rem;
 }
+@media (min-width: 1200px) {
+  .image-container {
+    min-height: 600px;
+  }
+}
