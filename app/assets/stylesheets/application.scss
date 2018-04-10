@@ -36,11 +36,11 @@ h3 {
   background-color: #ff6600;
   transition: height 0.3s;
 
-  &.expand {
+  &.grow {
     height: 100px;
   }
 
-  &.compact {
+  &.shrink {
     height: 60px;
     .logo {
       font-size: 1rem;
@@ -53,8 +53,4 @@ h3 {
 }
 .container {
   margin-top: 1rem;
-}
-.sentinel {
-  height: 1px;
-  width: 100%;
 }
