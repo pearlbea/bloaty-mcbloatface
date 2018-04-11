@@ -1,6 +1,6 @@
-<ul class="list-group top top--collapse">
+<ul class="list-group">
   <% comments['top'].each do |comment| %>
-    <li class="list-group-item d-flex justify-content-start align-items-center">
+    <li class="list-group-item d-flex justify-content-start align-items-center top">
         <%= render partial: "comment", locals: { comment: comment } %>
     </li>
   <% end %>
