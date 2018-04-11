@@ -1,16 +1,10 @@
-import { Story } from "./story";
+import "./application.scss";
 
 export class App {
   private readonly HEADER = ".navbar";
 
   public init() {
-    this.initStory();
     this.addEventListeners();
-  }
-
-  initStory(): void {
-    const story = new Story();
-    story.init();
   }
 
   get header() {

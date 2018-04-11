@@ -18,3 +18,4 @@
 //= require popper
 //= require bootstrap
 //= require moment
+//= require underscore
