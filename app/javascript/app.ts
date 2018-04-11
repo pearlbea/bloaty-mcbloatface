@@ -4,21 +4,20 @@ import { Story } from "./story";
 export class App {
   private readonly HEADER = ".navbar";
 
-  public init() {
+  public init(): void {
     this.addEventListeners();
-    const story = new Story();
-    story.init();
+    this.initStory();
   }
 
-  get header() {
+  get header(): HTMLElement {
     return document.querySelector(this.HEADER);
   }
 
-  addEventListeners(): void {
+  private addEventListeners(): void {
     window.addEventListener("scroll", this.handleScroll.bind(this));
   }
 
-  handleScroll(): void {
+  private handleScroll(): void {
     if (window.pageYOffset > 100) {
       this.header.classList.add("shrink");
       this.header.classList.remove("grow");
@@ -26,5 +25,10 @@ export class App {
       this.header.classList.remove("shrink");
       this.header.classList.add("grow");
     }
+  }
+
+  private initStory(): void {
+    const story = new Story();
+    story.init();
   }
 }
