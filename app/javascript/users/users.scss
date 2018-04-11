@@ -9,11 +9,11 @@ mat-toolbar {
   max-width: 1024px;
 
   #main {
-    margin: 48px;
+    padding: 48px;
   }
 
   mat-card {
-    margin: 24px;
+    margin-bottom: 24px;
     word-wrap: break-word;
   }
 }
