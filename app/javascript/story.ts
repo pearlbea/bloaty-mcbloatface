@@ -2,7 +2,7 @@
 
 export class Story {
   public init() {
-    this.addExpanders();
+    // this.addExpanders();
   }
   get topLevelComments(): NodeList {
     return document.querySelectorAll(".top");
@@ -11,7 +11,6 @@ export class Story {
   private get innerComments(): HTMLLIElement[] {
     let comments = [];
     Array.prototype.forEach.call(this.topLevelComments, comment => {
-      console.log(comment);
       if (comment.querySelector(".list-group-item")) {
         comments.push(comment.querySelector(".list-group"));
         this.addButton(comment);
