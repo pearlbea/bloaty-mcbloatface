@@ -4,9 +4,11 @@
   "scripts": {
     "preget-hn-data": "npm run compile-scripts",
     "get-hn-data": "node scripts/hn.js",
-    "compile-scripts":
-      "npx tsc --project scripts/tsconfig.json --listEmittedFiles",
-    "dev": "./bin/webpack-dev-server"
+    "compile-scripts": "npx tsc --project scripts/tsconfig.json --listEmittedFiles",
+    "dev": "./bin/webpack-dev-server",
+    "prod": "npm run prod-build && npm run prod-server",
+    "prod-build": "RAILS_ENV=production rails assets:precompile",
+    "prod-server": "SECRET_KEY_BASE=$(RAILS_ENV=production rails secret) RAILS_ENV=production RAILS_SERVE_STATIC_FILES=true rails server"
   },
   "dependencies": {
     "@angular/animations": "^5.2.9",
