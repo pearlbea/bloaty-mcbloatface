@@ -1,6 +1,6 @@
 class StoriesController < ApplicationController
   def index
-    @stories = Story.includes(:comments)
+    @stories = Story.includes(:comments, :user)
   end
 
   def show

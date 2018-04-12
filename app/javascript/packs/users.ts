@@ -5,3 +5,9 @@
 // <%= javascript_pack_tag 'hello_angular' %>
 
 import '../users';
+
+import { enableProdMode } from '@angular/core';
+
+if (process.env.NODE_ENV === 'production') {
+  enableProdMode();
+}

@@ -21,8 +21,13 @@
 /yarn-error.log
 
 .byebug_history
+/public/assets
 /public/packs
 /public/packs-test
+/public/sw.js
 /node_modules
 yarn-debug.log*
 .yarn-integrity
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key

@@ -3,4 +3,4 @@ module.exports = {
   use: [{
     loader: 'ts-loader'
   }]
-}
+};
