@@ -26,6 +26,18 @@ workbox.routing.registerRoute(
 );
 
 workbox.routing.registerRoute(
+  new RegExp('^https://images.unsplash.com/(.*)'),
+  workbox.strategies.cacheFirst({
+    cacheName: 'unsplash',
+    plugins: [
+      new workbox.cacheableResponse.Plugin({
+        statuses: [0, 200],
+      }),
+    ],
+  }),
+);
+
+workbox.routing.registerRoute(
   new RegExp('https://fonts.(?:googleapis|gstatic).com/(.*)'),
   workbox.strategies.cacheFirst({
     cacheName: 'googleapis',
