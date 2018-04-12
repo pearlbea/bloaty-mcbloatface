@@ -1,4 +1,4 @@
-// Warning: This is an example of poorly performing code. Do not use anything like this in real life.
+// Warning: This is an example of DOM thrashing. Do not use anything like this in real life.
 
 export class Story {
   public init() {
