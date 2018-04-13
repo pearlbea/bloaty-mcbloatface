@@ -1,4 +1,3 @@
-import "./application.scss";
 import { Story } from "./story";
 
 export class App {
