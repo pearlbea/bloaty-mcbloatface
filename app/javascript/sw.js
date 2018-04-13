@@ -33,7 +33,7 @@ workbox.clientsClaim();
  * Runtime caching of asset pipeline files.
  */
 workbox.routing.registerRoute(
-  new RegExp('/assets/.(?:js|css)$'),
+  new RegExp('/assets/.+(?:js|css)$'),
   workbox.strategies.cacheFirst({
     cacheName: 'assets',
   }),
