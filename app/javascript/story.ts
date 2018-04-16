@@ -1,4 +1,5 @@
-// Warning: This is an example of DOM thrashing. Do not use anything like this in real life.
+// Part 2 Extra Credit: The code below adds a DOM element to each top-level comment
+// on initial render. How might you make this more performant?
 
 export class Story {
   public init() {
