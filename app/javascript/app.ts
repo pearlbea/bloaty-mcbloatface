@@ -1,3 +1,8 @@
+// Part 2 Extra Credit: This script for animating the header triggers layout.
+// Rewrite it so that it is better performing. Hint: avoid using window page offset.
+// Another hint: use intersection observer.
+
+import { debounce } from "underscore";
 import { Story } from "./story";
 
 export class App {
@@ -13,7 +18,10 @@ export class App {
   }
 
   private addEventListeners(): void {
-    window.addEventListener("scroll", this.handleScroll.bind(this));
+    window.addEventListener(
+      "scroll",
+      debounce(this.handleScroll.bind(this), 50)
+    );
   }
 
   private handleScroll(): void {
@@ -27,7 +35,6 @@ export class App {
   }
 
   private initStory(): void {
-    const story = new Story();
-    story.init();
+    new Story().init();
   }
 }
