@@ -33,7 +33,7 @@ workbox.clientsClaim();
  * Runtime caching of asset pipeline files.
  */
 workbox.routing.registerRoute(
-  new RegExp('/assets/.+(?:js|css)$'),
+  new RegExp('/assets/.+(?:js|css|jpg)$'),
   workbox.strategies.cacheFirst({
     cacheName: 'assets',
   }),
@@ -46,21 +46,6 @@ workbox.routing.registerRoute(
   new RegExp('^https://robohash.org/(.*)'),
   workbox.strategies.cacheFirst({
     cacheName: 'robohash',
-    plugins: [
-      new workbox.cacheableResponse.Plugin({
-        statuses: [0, 200],
-      }),
-    ],
-  }),
-);
-
-/**
- * Runtime caching of unsplash images for story heros.
- */
-workbox.routing.registerRoute(
-  new RegExp('^https://images.unsplash.com/(.*)'),
-  workbox.strategies.cacheFirst({
-    cacheName: 'unsplash',
     plugins: [
       new workbox.cacheableResponse.Plugin({
         statuses: [0, 200],
