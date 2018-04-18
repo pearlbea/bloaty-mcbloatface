@@ -3,7 +3,7 @@
 
   <div class="card mb-3">
     <div class="image-container">
-      <img class="card-img-top" src="https://source.unsplash.com/collection/1986891" alt="Random cute image">
+      <%= image_tag random_cute_animal_image, alt: 'Random cute animal', class: 'card-img-top' %>
     </div>
     <div class="card-body">
       <h1 class="card-title"><%= @story.title %></h1>
