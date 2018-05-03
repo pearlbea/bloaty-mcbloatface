@@ -1,5 +1,4 @@
-// This allows angular to be loaded twice for illustrative purposes.
-import * as _ from "../users";
+import "../users";
 
 import { App } from "../app";
 
