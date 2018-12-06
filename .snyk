@@ -1,0 +1,65 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:hoek:20180212':
+    - '@rails/webpacker > node-sass > request > hawk > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@rails/webpacker > node-sass > request > hawk > sntp > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@rails/webpacker > node-sass > request > hawk > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - webpack-dev-server > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-06T13:16:46.869Z'
+    - webpack-dev-server > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-06T13:16:46.869Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > hawk > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > webpack-dev-server > chokidar > fsevents > node-pre-gyp > hawk > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@rails/webpacker > node-sass > request > hawk > cryptiles > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - webpack-dev-server > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@rails/webpacker > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > webpack-dev-server > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - webpack-dev-server > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > webpack-dev-server > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@rails/webpacker > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@rails/webpacker > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > webpack-dev-server > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > @angular-devkit/core > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@rails/webpacker > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+    - '@angular/cli > webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek':
+        patched: '2018-12-06T13:16:46.869Z'
+  'npm:tunnel-agent:20170305':
+    - '@rails/webpacker > node-sass > request > tunnel-agent':
+        patched: '2018-12-06T13:16:46.869Z'
