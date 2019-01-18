@@ -3,31 +3,31 @@
 workbox.skipWaiting();
 workbox.clientsClaim();
 
-// /**
-//  * Precache /users html for offline.
-//  */
-// workbox.precaching.precacheAndRoute([
-//   { url: '/users' },
-// ]);
-//
-// /**
-//  * Tell workbox to use the "/users" cached HTML for requests navigations that start with "/users"
-//  */
-// workbox.routing.registerNavigationRoute('/users', {
-//   whitelist: [
-//     new RegExp('^/users')
-//   ],
-// });
-//
-// /**
-//  * Runtime caching of JSON APIs for Angular.
-//  */
-// workbox.routing.registerRoute(
-//   /\.json$/,
-//   workbox.strategies.staleWhileRevalidate({
-//     cacheName: 'api',
-//   }),
-// );
+/**
+ * Precache /users html for offline.
+ */
+workbox.precaching.precacheAndRoute([
+  { url: '/users' },
+]);
+
+/**
+ * Tell workbox to use the "/users" cached HTML for requests navigations that start with "/users"
+ */
+workbox.routing.registerNavigationRoute('/users', {
+  whitelist: [
+    new RegExp('^/users')
+  ],
+});
+
+/**
+ * Runtime caching of JSON APIs for Angular.
+ */
+workbox.routing.registerRoute(
+  /\.json$/,
+  workbox.strategies.staleWhileRevalidate({
+    cacheName: 'api',
+  }),
+);
 
 /**
  * Runtime caching of asset pipeline files.
