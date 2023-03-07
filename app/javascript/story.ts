@@ -3,7 +3,7 @@
 
 export class Story {
   public init() {
-    // this.addExpanders();
+    this.addExpanders();
   }
   get topLevelComments(): NodeList {
     return document.querySelectorAll(".top");
